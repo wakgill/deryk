@@ -26,8 +26,9 @@ Essays and notes on the Dim Age, what it means and how to surive.
 
 An essay collection (the original one that launched this site) on how software is eating the world, completed in 2014-15 with support from Andreessen-Horowitz.
 
-<img src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/8metaphors75dpi.jpg" alt="" class="wp-image-467">
-
+<img src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/8metaphors75dpi.jpg" alt="" class="wp-image-467" style="
+    max-width: 266px;
+">
 What new institutions are actually being born in the weirding, and how do they differ from both romanticized pasts and utopian future visions?
 
 ## Contact
