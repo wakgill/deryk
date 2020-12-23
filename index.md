@@ -26,6 +26,10 @@ Essays and notes on the Dim Age, what it means and how to surive.
 
 An essay collection (the original one that launched this site) on how software is eating the world, completed in 2014-15 with support from Andreessen-Horowitz.
 
+<img src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/8metaphors75dpi.jpg" alt="" class="wp-image-467">
+
+What new institutions are actually being born in the weirding, and how do they differ from both romanticized pasts and utopian future visions?
+
 ## Contact
 
 To de­scribe my per­son­al­ity briefly: I am in­tro­vert­ed, calm, nei­ther par­tic­u­larly in­dus­tri­ous nor lazy, con­trary, and patho­log­i­cally cu­ri­ous. I have made a copy of [my 2011–2014 re­sponses to the Your­Moral­s.org cor­pus](/docs/personal/2011-2014-yourmorals.maff); dis­cussed in more de­tail be­low. My scores on the “Big 5 Per­son­al­ity In­ven­tory”, /<wbr>long [1](/docs/personal/2012-gwern-personalityproject.html "Personality-project long Big Five report; early 2012")/<wbr>[2](/docs/personal/2012-gwern-personalityproject-2.html "Personality-project long Big Five report; late 2012")/<wbr>[3](/docs/personal/2013-gwern-personalityproject.html "Personality-project long Big Five report: early 2013"):
