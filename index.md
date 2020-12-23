@@ -9,7 +9,7 @@ layout: default
 
 This is the website of Deryk Makgill. I write about psychology, statistics, and technology. I am best known for work on the darknet markets & Bitcoin, blinded self-experiments, dual n-back & spaced repetition, and anime neural networks.
 
-<img src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">
+<img style="max-width:266px;" src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">
 
 ## About me
 
