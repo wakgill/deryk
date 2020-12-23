@@ -10,7 +10,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 ## About me
 
-My name is Deryk Makgill, also known as Wakgill.
+My name is Deryk Makgill, also known as wakgill, which is because makgill was taken already and w is an inverted m.
 
 One of the ironies of this ap­proach is that as a [tran­shu­man­ist](https://en.wikipedia.org/wiki/transhumanist), I as­sign non-triv­ial prob­a­bil­ity to the world un­der­go­ing mas­sive change dur­ing the 21st cen­tury due to any of a num­ber of tech­nolo­gies such as ar­ti­fi­cial in­tel­li­gence (such as [mind up­load­ing](https://en.wikipedia.org/wiki/mind_uploading)[<sup>32</sup>](#fn32)) or [nan­otech­nol­ogy](https://en.wikipedia.org/wiki/Molecular_assembler); yet here I am, plan­ning as if I and the world were im­mor­tal.
 
