@@ -25,7 +25,7 @@ For information about my site’s philosophy, method, traffic statistics, and im
 
 Essays and notes on the Dim Age, what it means and how to surive.
 
-<img loading="lazy" width="266" height="200" src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/seasonone75dpi.png" alt="" class="wp-image-542">
+<img loading="lazy" width="266" height="200" src="/deryk/assets/img/tcmay-pink.gif" alt="" class="wp-image-542">
 
 An essay collection (the original one that launched this site) on how software is eating the world, completed in 2014-15 with support from Andreessen-Horowitz.
 
