@@ -11,7 +11,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 
 <p></p>
-<a href="/images/DerekSivers-20141119-1450.jpg"><img src="/deryk/assets/img/makgill-censored.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"></a>
+<a href="/images/DerekSivers-20141119-1450.jpg"><img style="max-width:100px;" src="/deryk/assets/img/makgill-censored.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"></a>
 <a href="https://sivers.org/images/DerekSivers-20141209a-1853.jpg"><img src="/deryk/assets/img/avatar.png" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz"></a>
 <a href="/images/DerekSivers-20141209b-2333.jpg"><img src="https://sivers.org/images/DerekSivers-20141209b-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz"></a>
 <a href="/images/DerekSivers-20141209c-1556.jpg"></a>
