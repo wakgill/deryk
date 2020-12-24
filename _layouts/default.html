@@ -56,8 +56,11 @@
    
 "><a href="https://web.archive.org/web/20100215165424/http://tech.theymos.com/">My tech articles</a></td><td class="links"><a href="https://web.archive.org/web/20100215165424/http://freesoftwarecomparison.wordpress.com/">Free software comparison</a></td><td class="links"><a href="design.html">Web design</a></td><td class="links"><a href="https://web.archive.org/web/20100215165424/http://www.advicenators.com/column.php?u=theymos">Me on Advicenators</a></td></tr></tbody></table>
 
+{% if page.background %}
+<div id="content" style="background:white; padding: 5px;">
+{% else %}	
 <div id="content">
-	
+{% endif %}	
 	
 {{ content }}
 
