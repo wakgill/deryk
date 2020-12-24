@@ -38,8 +38,11 @@
   {%- include css.html -%}
 
 </head>
-<body>
-	
+{% if page.background %}
+<body style="max-width:{{page.width}}; background:url({{page.background}})">
+{% else %}
+	<body>
+		{% endif %}
 	<table class="imaget" style="
     background: gray;
 
