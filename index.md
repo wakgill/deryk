@@ -11,7 +11,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 <img style="max-width:266px;" src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">
 
-## About me
+## About
 
 My name is Deryk Makgill, also known as wakgill, which is because makgill was taken already and w is an inverted m.
 
