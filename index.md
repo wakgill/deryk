@@ -21,7 +21,7 @@ One of the ironies of this ap­proach is that as a [tran­shu­man­ist](https:/
 
 For information about my site’s philosophy, method, traffic statistics, and implementation, see the About page; for information about myself, my use of other websites, and contact information, see the Links page; for information about new pages, see the Changelog; to receive updates, news, & reviews, subscribe to the newsletter (archives).
 
-<p><a href="/deryk"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tcmay-pink.gif" alt="" class="wp-image-542"> &lt;---click here</a>
+<p><a href="/deryk"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tcmay-pink.gif" alt="" class="wp-image-542"></a>
 </p>
 
 Cypherpunk Timothy C. May's collected writings on topics from Anarchy to Welfarism. This book is being 'written' in public and new material is added weekly.
