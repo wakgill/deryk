@@ -1,6 +1,6 @@
 ---
 layout: default
-width: 500px
+width: 700px
 background: https://neustadt.fr/img/animspace.gif
 ---
 
