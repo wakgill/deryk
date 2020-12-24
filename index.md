@@ -21,19 +21,9 @@ One of the ironies of this ap­proach is that as a [tran­shu­man­ist](https:/
 
 For information about my site’s philosophy, method, traffic statistics, and implementation, see the About page; for information about myself, my use of other websites, and contact information, see the Links page; for information about new pages, see the Changelog; to receive updates, news, & reviews, subscribe to the newsletter (archives).
 
-![](https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shadowlandgif75dpi.gif)
-
-Essays and notes on the Dim Age, what it means and how to surive.
-
 <img loading="lazy" width="266" height="200" src="/deryk/assets/img/tcmay-pink.gif" alt="" class="wp-image-542">
 
 Cypherpunk Timothy C. May's collected writings on topics from Anarchy to Welfarism. This book is being 'written' in public and new material is added weekly.
-
-<img src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/8metaphors75dpi.jpg" alt="" class="wp-image-467" style="
-    max-width: 266px;
-">
-
-What new institutions are actually being born in the weirding, and how do they differ from both romanticized pasts and utopian future visions?
 
 ## Contact
 
