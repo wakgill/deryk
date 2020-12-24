@@ -27,7 +27,7 @@ Essays and notes on the Dim Age, what it means and how to surive.
 
 <img loading="lazy" width="266" height="200" src="/deryk/assets/img/tcmay-pink.gif" alt="" class="wp-image-542">
 
-Cypherpunk Timothy C. May's collected writings on topics from Anarchy to Welfarism.
+Cypherpunk Timothy C. May's collected writings on topics from Anarchy to Welfarism. This book is being 'written' in public and new material is added weekly.
 
 <img src="https://1cv7ua4679w3p6rv53wmjvoh-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/8metaphors75dpi.jpg" alt="" class="wp-image-467" style="
     max-width: 266px;
