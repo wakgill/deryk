@@ -10,7 +10,7 @@ A choice between death or [mining](https://youtu.be/jMB1K4w-wRk?t=304)<br>
 On the second day of [Seizemas](https://youtu.be/jMB1K4w-wRk?t=292)<br>
 Craig Wright gave to me<br>
 Two courtroom [orders](https://youtu.be/jMB1K4w-wRk?t=229)<br>
-A choice between death or [mining](https://youtu.be/jMB1K4w-wRk?t=304)<br>
+And a choice between death or [mining](https://youtu.be/jMB1K4w-wRk?t=304)<br>
 On the third day of [Seizemas](https://youtu.be/jMB1K4w-wRk?t=292)<br>
 Craig Wright gave to me<br>
 Three frozen [nodes](https://youtu.be/jMB1K4w-wRk?t=215)<br>
