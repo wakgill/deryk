@@ -7,7 +7,7 @@ layout: default
 
 <h1 class="name glitch" data-text="Makgill">Wakgill</h1>
 
-This is the website of Deryk Makgill. I am best known for work on the economics & history Bitcoin, and in the past for my work against credentialism, but I'm also interested in science fiction and digital privacy. There's nothing special in "wakgill." A 'w' is an inverted 'm.'
+This is the website of Deryk Makgill. I am best known for work on the economics & history Bitcoin, and in the past for my work against credentialism, but I'm also interested in science fiction and digital privacy. There's nothing special in "wakgill." A 'w' is an inverted 'm' and it makes for an easier guarantee that I get a common username across the few services I use.
 
 
 <p></p>
