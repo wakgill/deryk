@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Timothy C. May: From Anarchy to Welfarism"
+image: https://wakgill.github.io/deryk/assets/img/tim-may-vhs.gif
 ---
 
 # Timothy C. May
