@@ -11,10 +11,9 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 
 <p></p>
-<a href="/images/DerekSivers-20141119-1450.jpg"><img style="max-width:100px;" src="/deryk/assets/img/makgill-censored.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"></a>
-<a href="https://sivers.org/images/DerekSivers-20141209a-1853.jpg"><img style="max-width:100px;" src="/deryk/assets/img/deryk-censored.png" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz"></a>
-<a href="/images/DerekSivers-20141209b-2333.jpg"><img style="max-width:100px;" src="/deryk/assets/img/ecuador-censored.png" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz"></a>
-<a href="/images/DerekSivers-20141209c-1556.jpg"></a>
+<img style="max-width:100px;" src="/deryk/assets/img/makgill-censored.jpg" alt="Deryk Makgill" title="Deryk Makgill">
+<img style="max-width:100px;" src="/deryk/assets/img/deryk-censored.png" alt="Deryk Makgill" title="Deryk Makgill">
+<a href="/images/DerekSivers-20141209b-2333.jpg"><img style="max-width:100px;" src="/deryk/assets/img/ecuador-censored.png" alt="Deryk Makgill" title="Deryk Makgill">
 
 
 <!---<img style="max-width:266px;" src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">--->
