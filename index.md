@@ -22,12 +22,12 @@ This is the website of Deryk Makgill. I am best known for work on the economics 
 
 I've been asked <code>(26 December 2020)</code> if I will be writing more essays again regulary, and if I'll be posting my old archives. *Yes,* but I don't know when. For now, I'm working on several projects that are mostly the writings of other people. Those will appear below.
 
-<p><a href="/deryk"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
+<p><a href="/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
 </p>
 
-Cypherpunk Timothy C. May's collected writings on topics from Anarchy to Welfarism. This book is being 'written' in public and new material is added weekly.
+Cypherpunk Timothy C. May's [collected writings](/tcm) on topics from Anarchy to Welfarism. This book is being 'written' in public and new material is added weekly.
 
 ## Contact
 
-You can email me at deryk@makgill.ch and I will try to respond within one week. Please don't send me messages on Twitter or Telegram unless we've previously used those places to talk.
+You can email me at deryk@makgill.ch and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill) or Telegram unless we've previously used those places to talk.
 
