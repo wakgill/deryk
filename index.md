@@ -22,6 +22,8 @@ This is the website of Deryk Makgill. I am best known for work on the economics 
 
 I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>(26 December 2020)</code> if I will be writing more essays again regulary, and if I'll be posting my old archives. *Yes,* but I don't know when. For now, I'm working on several projects that are mostly the writings of other people. Those will appear below.
 
+## Projects
+
 <p><a href="/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
 </p>
 
