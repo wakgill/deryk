@@ -29,5 +29,5 @@ Cypherpunk Timothy C. May's [collected writings](/tcm) on topics from Anarchy to
 
 ## Contact
 
-You can email me at deryk@makgill.ch and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill) or Telegram unless we've previously used those places to talk.
+You can email me at <code>deryk@makgill.ch</code. and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill) or Telegram unless we've previously used those places to talk.
 
