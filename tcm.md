@@ -19,7 +19,7 @@ the "Clique," and on and on.
 
 #### [Scenario for a Ban on Cash Transactions](http://mailing-list-archive.cryptoanarchy.wiki/archive/1992/11/072cd11b2499e62e64050cdeb80730782b5643b03534646e2adae32d37744dd6/)
 
->Reread John Brunner's amazingly prescient "Shockwave Rider" for some
+>Reread John Brunner's amazingly prescient ["Shockwave Rider"](https://amzn.to/37S80gQ) for some
 visions of a fully-computerized society.
 
 ## Cryptoanarchy 
