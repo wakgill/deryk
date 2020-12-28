@@ -8,6 +8,9 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 
 ## From Anarchy to Welfarism
 
+### Version 0.1 - Modified 28 December 2020
+
+
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
 <div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;"> 
