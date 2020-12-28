@@ -204,12 +204,6 @@ driver's license, like I said. In other areas, why?
 >This gets to a core issue: the incredible benefits of locally clearing a
 transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
 
-## Cryptoanarchy 
-
-#### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
-
->The screens of freedom must occassionally be refreshed with a GUI-supported blood-color of digital martyrs.
-
 ## Cypherpunks
 
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
@@ -230,6 +224,16 @@ Code that helps government control "cyberspace criminals"? We've seen
 recent discussions about religion, the need for values, etc. Many of us are
 opposed to the specific views raised, but since there is no "official party
 line," the way we work on these issues is through discussion.
+
+#### [Keep it Simple and the Cypherpunk Way](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/02/4237940dbb537242686c30be9bc549f2ec751e342607cc0c8b75ad30138c82a8/)
+
+>A moderation scheme almost always bogs down into debates about the moderation criteria, the acceptability of certain posts, and so on. Now we see another effect: multiple lists and a confusing array of cross-posts, mail-to-News gateways, News-to-mail gateways, etc. The "Cypherpunks Way" is to encourage and empower people to filter their own stuff, or to hire outside contractors to do it for them. Failing that, to let them twist slowly in the wind. "Think of it as evolution in action.” The Cypherpunks Way is also the simplest system.
+
+## Cryptoanarchy 
+
+#### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
+
+>The screens of freedom must occassionally be refreshed with a GUI-supported blood-color of digital martyrs.
 
 ## Digital Cash
 
