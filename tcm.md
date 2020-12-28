@@ -420,6 +420,28 @@ very healthy development, even for a cynic like me.
 >(I view governments as protection rackets. The last thing we need is a
 bidding war between various sides in a dispute.)
 
+#### [The Expat Tax Is Law - The Door Is Now Closed!](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/376fce5d224f4db351a12c7e81abe0931667fc137c73be2c73615702a1b8de5e/)
+
+>The imposition of draconian taxation policies effectively says that the
+U.S. is now doing what the Soviet Union did to emigrants: demand that they
+"pay back" various costs the government claimed they had incurred. Here,
+the U.S. is telling would-be expats that they cannot take their property
+with them, that they must effectively "escrow" (there's that horrid word
+again) their assets in a form and place that the tax collector can access,
+even if they no longer live in the United States and no longer use
+services, and even if they had paid their full taxes on income while they
+_were_  in the U.S.
+>
+>It makes me want to just put my stock certificates in my luggage and just
+drive on down to Mexico and cross the border (no border checks) and go
+from there to some safer haven.
+>
+>(However, I imagine the Feds can effectively block sales of my stock--the
+stock is still formally only an accounting entry, as stock certificates
+are not "bearer instruments." I could probably relocate to a foreign haven
+and sell the assets before the IRS would even notice...unless they
+computerize. I suspect this is coming.)
+
 ## Technology
 
 #### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
