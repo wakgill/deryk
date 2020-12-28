@@ -202,6 +202,12 @@ found in Neal Stephenson's novel "Snow Crash," and a more scholarly
 treatment can be found in David Friedman's "The Machinery of Freedom" and
 in Bruce Benson's "The Enterprise of Law."
 
+#### [Novel Recommendation: “Black Cipher”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/6ce26ebceef24b1f31293a4caebb1662a550623a1a14d17980f2cb53ff633000/)
+
+>I just read a fine novel, a "crypto-thriller," called "Black Cipher…Several weeks ago I recommended Joseph Finder's "The Zero Hour," which also had some crypto in it. This is even better, both as a novel and in terms of the amount of crypto and cryptanalysis portrayed. Highly recommended...Several weeks ago I recommended Joseph Finder's "The Zero Hour," which
+also had some crypto in it. This is even better, both as a novel and in
+terms of the amount of crypto and cryptanalysis portrayed. 
+
 ## Credentials
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
@@ -355,6 +361,23 @@ day, etc. People can store key numbers with people they trust, perhaps
 encrypted with other keys, can leave them with their lawyers, etc. All
 sorts of arrangements can be made.
 
+## Discrimination
+
+#### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
+
+>…here in my little piece of Paradise [of ‘Kalifornia’], a recent law made it illegal to "discriminate" against those with rings through their noses, studs through their tongues, etc. …what I do with my property, including who I hire, is my business, not the ‘Committee Against Appearance Discrimination’s’ bussiness.
+
+## Drugs
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>Aside from the evidence that the CIA and other gov't agencies ran
+drugs into the U.S. (cf. the usual sources), there are lots of drugs the
+gov't. dispenses to its own troops, including methamphetamines, which it
+declares to be contraband in the civilian sector. (Pilots, for example,
+are given uppers to maintain alertness, but of course a truck driver
+caught with them faces jail.)
+
 ## Forgery
 
 #### [Re:"... would cause us to look at this person as a threat"](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/4b97eac0e00b434f40e681151cd8ab1338811104c62bd7e6cc03b3b54e2b23db/)
@@ -383,6 +406,22 @@ growth, as a less articulate person said.
 >Why doth governments never prosper? For if governments doth prosper,none
 dare call it government.
 
+## Guns
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>Please don't cite the hackneyed example of how the government has
+the right to own nuclear weapons but ordinary citizen-units do not. This
+is indeed so, and I don't even necessarily think this is completely
+unreasonable...though I now am more inclined to support the right to keep
+and bear nukes.
+
+## Keys
+
+#### [Re: Jeff’s Side of the Story](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/8502b97db0a5dc72d69746ca660ac9e838554233776c7d455509d9c448a53211/)
+ 
+>Only one response to the key grabbers is warranted: "Death to Tyrants!"
+
 ## Law
 
 #### [SAFE Bill is a Disaster–“Use a cipher, go to prison”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/be751b2cf978e0c363b0101d3355ed622eee5130bd22cc7b2224c887497563cf/)
@@ -398,11 +437,87 @@ rights.
 
 >There's something wrong when I'm a felon under an increasing number of laws.
 
+#### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
+
+>The real problem is that the thousands of professional politicians, the organized crime families of politics, and the hundreds of thousands of cops, narcs, judges, bureaucrats, drones, and other criminals keep on writing more laws, trying to patch the broken aspects of society with more and more laws.
+
+#### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
+
+>As with crypto, the laws keep getting more and more complex, with layers
+upon layers of cruft making nearly any interpretation a DA (District
+Attorney, or Prosecuting Attorney) might want to push possible. As the
+famous saying by a corrupt (as most of them are) DA went, "I could get an
+indictment against a ham sandwich if I wanted one.")
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>Cops have been known to tell people to "keep your knife out of sight and
+you'll be OK," even though the laws are usually quite clear that this is
+felony concealment. The law is an ass.
+
+## Liberty
+
+#### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
+
+>Unless each and every individual who is concerned with gaining the
+liberty to exercise the basic rights and freedoms which come from
+being a unique participant in the universe which has formed them
+(and which they have had a hand in forming) steps forward to demand
+the right to exercise and manifest their values and beliefs in
+MeatSpace, as well as CyberSpace...uuhhh...has anybody seen my
+shoes?
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>One of the recent trends which really bugs me, and which seems to be
+indicative of a major shift in the American system is this: "They" have certain rights the rest of "us" don't have.  Who are "they"? Law enforcement, the military, the spies, [and] the secret police.
+>
+>The ‘us’ is anyone not in a special group exempted from the ban…This makes for a dangerous society, civil liberties-wise, when industrial companies and shops have two classes of customers: them and us…We’re not talking about private ownership of nukes. We’re talking about a situation where a citizen can go to prison for having a knife longer than 3 inches in his pocket, while cops are free to have them for their own purposes. This stinks.
+
+
 ## Nationalism
 
 #### [A 4000-Cray Machine at NSA in 1997?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/07/3a5884bd4aee0f16ea368bf15fcd5550c7ea4a76cd921fbbab922fd6fdb8c7a7/)
 
 >National borders are just speed bumps on the information superhighway.
+
+## Police
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>...the term "LEO" means "Law Enforcement Only." Meaning,
+your local cop is free to buy these items, even for personal use in many
+cases, but the sheeple are not. My local gun stores have sections marked
+"Law Enforcement Use Only," and these sections are getting bigger every
+year.
+
+#### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
+
+>The danger...is not that there are a _few_ things that we let
+police and soldiers have that we think civilians should not have, but that
+_so many_ things are now classified this way, with the number of things so
+classified growing constantly.
+>
+>This makes for a dangerous society, civil liberties-wise, when industrial
+companies and shops have two classes of customers: them and us.
+>
+>This stinks. We're not talking about private ownership of nukes. We're
+talking about a situation where a citizen can go to prison for having a
+knife longer than 3 inches in his pocket, while cops are free to have them
+for their own purposes.
+
+## Politicians
+
+#### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
+
+>People sometimes wonder why I'm moving toward the "just kill them all"
+position, meant rhetorically, of course. (I would never, never suggest
+that anyone actually kill the criminals McCain or Kerrey, or the other 533
+criminals, but they have surely all richly earned whatever befalls them.)
+
+#### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
+
+>…the knife laws in California…[make] me want to climb a tall tower and start shooting. (I won't, of course, but I am confirmed in my view that the politicians in Sacramento and D.C. ought to be disposed of as quickly as possible. Hang the bastards.)
 
 ## Repudiation
 
