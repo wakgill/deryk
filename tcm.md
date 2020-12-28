@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
 <div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;"> 
-[ad] Your product ad can go here and reach tens of thousands of readers of this book.
+[ad] Your product ad can go here and reach tens of thousands of readers of this book. I only advertise products I like and use!
 </div>
 
 ## Anarchy
