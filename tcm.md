@@ -60,6 +60,12 @@ in cyberspace....they already exist all around us.
 >
 >Just don't call them governments, because they ain't.
 
+## Anonymity 
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>...there are many reasons a buyer does not wish to disclose buying preferences. But buyers and sellers BOTH need protections against tracking: a seller of birth control information is probably even more at risk than some mere buyer of such information (in many countries). Then there’s blasphemy, sacrilege and political activism. Approaches like Digicash which concentrated on *buyer* anonymity (as with shoppers at a store or drivers on a toll-road), but were missing a key ingredient: that most people are hunted-down for their speech or their politics on the *seller* side.
+
 ## Assassination Markets
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
@@ -93,6 +99,71 @@ the "Clique," and on and on.
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
 
 >Less than 2 years ago I was a homeless person, living on the banks of the San Lorenzo River. Then I met a person named "Timothy C. May." He wasn't interested in being on the Net anymore--he said it took too much of his time--so he gave me his account, his password (which I've since changed, of course), and said ‘Have fun.’
+
+## Bitcoin
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>I can’t speak for what Satoshi intended, but I sure don’t think it involved bitcoin exchanges that have draconian rules about KYC, AML, passports, freezes on accounts and laws about reporting “suspicious activity” to the local secret police. There’s a real possibility that all the noise about “governance,” “regulation” and “blockchain” will effectively create a surveillance state, a dossier society.
+>
+>I think Satoshi would barf. Or at least work on a replacement for bitcoin as he first described it in 2008-2009. I cannot give a ringing endorsement to where we are, or generate a puff-piece about the great things already done.
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>Sure, bitcoin and its variants – a couple of forks and many altcoin variants – more or less work the way it was originally intended. Bitcoin can be bought or mined, can be sent in various fast ways, small fees paid and recipients get bitcoin and it can be sold in tens of minutes, sometimes even faster.
+>
+>No permission is needed for this, no centralized agents, not even any trust amongst the parties. And bitcoin can be acquired and then saved for many years.
+>
+>But this tsunami that swept the financial world has also left a lot of confusion and carnage behind. Detritus of the knowledge-quake, failed experiments, Schumpeter’s “creative destructionism.” It’s not really ready for primetime. Would anyone expect their mother to “download the latest client from Github, compile on one of these platforms, use the Terminal to reset these parameters?”
+>
+>What I see is losses of hundred of millions in some programming screw-ups, thefts, frauds, initial coin offerings (ICOs) based on flaky ideas, flaky programming and too few talented people to pull off ambitious plans.
+>
+>Sorry if this ruins the narrative, but I think the narrative is fucked. Satoshi did a brilliant thing, but the story is far from over. She/he/it even acknowledged this, that the bitcoin version in 2008 was not some final answer received from the gods..
+
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>...the newness in the Satoshi white paper (and then the early uses for things like Silk Road) is what drew many to the bitcoin world. If the project had been about a “regulatory-compliant,” “banking-friendly” thing, then interest would’ve been small. (In fact, there were some yawn-inducing electronic transfer projects going back a long time. “SET,” for Secure Electronic Transfer, was one such mind-numbingly-boring projects.) It had no interesting innovations and was 99 percent legalese. Cypherpunks ignored it.
+
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>...there is not much of interest to many of us if cryptocurrencies just become Yet Another PayPal, just another bank transfer system. What’s exciting is the bypassing of gatekeepers, of exorbitant fee collectors, of middlemen who decide whether Wikileaks — to pick a timely example — can have donations reach it. And to allow people to send money abroad.
+>
+>Attempts to be “regulatory-friendly” will likely kill the main uses for cryptocurrencies, which are NOT just “another form of PayPal or Visa.”
+>
+>More general uses of “blockchain” technology are another kettle of fish. Many uses may be compliance-friendly. Of course, a lot of the proposed uses — like putting supply chain records — on various public or private blockchains are not very interesting. Many point that these “distributed ledgers” are not even new inventions, just variants of databases with backups. As well, the idea that corporations want public visibility into contracts, materials purchases, shipping dates, and so on, is naive.
+>
+>Remember, the excitement about bitcoin was mostly about bypassing controls, to enable exotic new uses like Silk Road. It was some cool and edgy stuff, not just another PayPal.
+
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>Money is speech. Checks, IOUs, delivery contracts, Hawallah banks, all are used as forms of money. Nick Szabo has pointed out that bitcoin and some other cryptocurrencies have most if not all of the features of gold except it also has more features: it weighs nothing, it’s difficult to steal or seize and it can be sent over the crudest of wires. And in minutes, not on long cargo flights as when gold bars are moved from place to another.
+>
+>But, nothing is sacred about either banknotes, coins or even official-looking checks. These are “centralized” systems dependent on “trusted third parties” like banks or nation-states to make some legal or royal guaranty.
+>
+>Sending bitcoin, in contrast, is equivalent to “saying” a number (math is more complicated than this, but this is the general idea). To ban saying a number is equivalent to a ban on some speech. That doesn’t mean the tech can’t be stopped. There was the “printing out PGP code,” or the Cody Wilson, Defense Distributed case, where a circuit court ruled this way.
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>There will inevitably be some contact with the legal systems of the U.S., or the rest of the world. Slogans like “the code is the law” are mainly aspirational, not actually true.
+>
+>Bitcoin, qua bitcoin, is mostly independent of law. Payments are, by the nature of bitcoin, independent of charge-backs, “I want to cancel that transaction,” and other legal issues. This may change. 
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>The people I hear about who are reportedly transferring “interesting” amounts of money are using basic forms of bitcoin or bitcoin cash, not exotics new things like Lightning, Avalanche, or the 30 to 100 other things.
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>...it will be a tragic error if the race to develop (and profit from) the things that are confusingly called “cryptocurrencies” end up developing dossiers or surveillance societies such as the world has never seen. I’m just saying there’s a danger.
+>
+>With “know your customer” regulations, crypto monetary transfers won’t be like what we have now with ordinary cash transactions, or even with wire transfers, checks, etc. Things will be _worse_ than what we have now if a system of “is-a-person” credentialing and “know your customer” governance is ever established. Some countries already want this to happen.
+>
+>The “Internet driver’s license” is something we need to fight against.
+
+
 
 ## Books
 
@@ -344,6 +415,14 @@ very healthy development, even for a cynic like me.
 >
 >(I view governments as protection rackets. The last thing we need is a
 bidding war between various sides in a dispute.)
+
+## Technology
+
+#### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
+
+>I think nearly all new technologies have had uses some would not like. Gutenberg’s printing press was certainly not liked by the Catholic Church. Examples abound. But does this mean printing presses should be licensed or regulated?
+>
+>There have usually been some unsavory or worse uses of new technologies (what’s unsavory to, say, the U.S.S.R. may not be unsavory to Americans). Birth control information was banned in Ireland, Saudi Arabia, etc. Examples abound: weapons, fire, printing press, telephones, copier machines, computers, tape recorders.
 
 ## Tyranny 
 
