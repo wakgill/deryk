@@ -10,8 +10,8 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
-<div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;/* margin-right: -5px; */"> 
-[ad] Enjoy the blog? Read <b><a href="https://www.amazon.com/dp/B008HUMTO0/?tag=codihorr-20">Effective Programming: More than Writing Code</a></b> and <b><a href="https://www.amazon.com/dp/B00BU3KPQU/?tag=codihorr-20">How to Stop Sucking and Be Awesome Instead</a></b>  on your Kindle, iPad, Nook, or as a PDF.
+<div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;"> 
+[ad] Your product ad can go here and reach tens of thousands of readers of this book.
 </div>
 
 ## Anarchy
