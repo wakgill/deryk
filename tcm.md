@@ -8,7 +8,7 @@ image: https://wakgill.github.io/deryk/assets/img/tim-may-vhs.gif
 
 ## From Anarchy to Welfarism
 
-This book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
+This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
 ## Anarchy
 
