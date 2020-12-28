@@ -10,6 +10,10 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
+<div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;/* margin-right: -5px; */"> 
+[ad] Enjoy the blog? Read <b><a href="https://www.amazon.com/dp/B008HUMTO0/?tag=codihorr-20">Effective Programming: More than Writing Code</a></b> and <b><a href="https://www.amazon.com/dp/B00BU3KPQU/?tag=codihorr-20">How to Stop Sucking and Be Awesome Instead</a></b>  on your Kindle, iPad, Nook, or as a PDF.
+</div>
+
 ## Anarchy
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
@@ -429,3 +433,5 @@ bidding war between various sides in a dispute.)
 #### [Re:"... would cause us to look at this person as a threat"](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/4b97eac0e00b434f40e681151cd8ab1338811104c62bd7e6cc03b3b54e2b23db/)
 
 >The tree of tyranny must be watered periodically with the piss of citizens...
+
+
