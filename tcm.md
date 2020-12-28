@@ -221,7 +221,7 @@ state is starved to death by the methods many of us advocate...
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
 
->"...imagine if they tied decision making power to
+>...imagine if they tied decision making power to
 how much you pay in taxes" was tried a while back: only tax-payers could
 vote. I'm all in favor of this, but I doubt many of my fellow citizens are.
 >
