@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Timothy C. May: From Anarchy to Welfarism"
-image: https://github.com/wakgill/deryk/blob/main/assets/img/tmc.png
+image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 ---
 
 # Timothy C. May
