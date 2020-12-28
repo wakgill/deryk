@@ -10,6 +10,56 @@ image: https://wakgill.github.io/deryk/assets/img/tim-may-vhs.gif
 
 This book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
 
+## Anarchy
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>Without the legal monopoly on coercion, this so-called "government" would
+be just another service provider, like Safeway or Goodyear or K-Mart.
+Economies of scale work against a large, slow-moving bureaucracy, so the
+so-called goverment would devolve quickly into multiple small pieces.
+>
+>This is the "anarcho-capitalism" many of us argue for, so I won't argue
+against it here. I just wouldn't call it "the government" anymore. As soon
+as "the government" gives up its use of force, allows competitors in all
+areas, and is run by donations or fees, it is no longer "the government."
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>I have a problem with the whole notion of calling a voluntary, self-selected, market-driven system a "government" of any kind. Yes, it is something people may voluntarily join, but so are country clubs, book reading groups, and mailing lists. And the decision to shop at Safeway one day is a temporary joining of such an instantiated group. But these things ain't governments This is not just semantic quibbling. If we say that such groups are voluntary, but can vote on "rules" or "laws" which all must follow, then the voluntary nature means people can freely leave, can choose not to abide by the rules, etc. Hence the rules are toothless. There are forms of organization in which bad behavior has implications, such as banishment, shunning, etc. But this is true of the country club, or [the Cypherpunk Mailing List] …acting like a bozo has implications. Some might call these governments of a sort, but I don't. Iceland in the Middle Ages is often cited as such a thing…
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>...it is simply poor strategy as well as being poor semantics to label the
+voluntary social and economic interactions as being some kind of
+"government." Call them what they are: market interactions, agoric systems,
+or voluntary associations. Normal life is like this...families, girlfriends
+and boyfriends, freedom to associate as one pleases, free markets, anarchy
+in book and music selection, etc.
+>
+>And these systems work pretty well--or at least a lot better than the
+corruptions and absurdities of government-run programs. They don't require
+that people be "good," only that people understand the consequences of
+their actions, the value of a good reputation, and the punishment that will
+be meted out to the few who nevertheless transgress against a few basic
+rules.
+>
+>(I mention the need for violence because without some punishment, or
+removal by some affordable means, the "wolves" proliferate. To make this
+less abstract: no laws except for a very few laws about murder, theft,
+rape, etc. Enforce those laws ruthlessly, and the wolf population is kept
+in check. a fedback mechanism suppresses wolf formation. Ignore these laws,
+delay justice, and proliferate thousands of economic and social laws--such
+as the "dietary laws" also known as drug laws--and the wolf population will
+proliferate. A feedback mechanism that encourages more wolves to form Look
+at inner cities. Look at South-Central L.A.) (No offense meant to wolves or
+other predators here.)
+>
+>And these systems don't have to wait for implementation at some future time
+in cyberspace....they already exist all around us.
+>
+.Just don't call them governments, because they ain't.
+
 ## Autobiography
 
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
@@ -24,6 +74,14 @@ the "Clique," and on and on.
 
 >Reread John Brunner's amazingly prescient ["Shockwave Rider"](https://amzn.to/37S80gQ) for some
 visions of a fully-computerized society.
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>I promised to mention "private produced law," or PPL. This is the notion
+of multiple, competing legal systems. A fictional treatment of this can be
+found in Neal Stephenson's novel "Snow Crash," and a more scholarly
+treatment can be found in David Friedman's "The Machinery of Freedom" and
+in Bruce Benson's "The Enterprise of Law."
 
 ## Cryptoanarchy 
 
@@ -40,6 +98,17 @@ visions of a fully-computerized society.
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
 
 >The [Cypherpunk] movement belongs to what gets written and what gets responded to. In other words, if you want to be listened to, you have to get people's attention by the quality of your arguments. You can't rail against “leaders" like Hal Finney or Duncan Frissell just because their posts get reaction. You can't argue that the "herd" didn't have a chance to vote. In fact, people vote with their own posts. Market democracy.
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>The issues of taxation, government, anarchy, and
+cyberspatial institutions are important topics for a list like
+"Cypherpunks." If the *beliefs* are not to be talked about, but only code
+is to be written, then _what_ code? Code that helps ensure tax compliance?
+Code that helps government control "cyberspace criminals"? We've seen
+recent discussions about religion, the need for values, etc. Many of us are
+opposed to the specific views raised, but since there is no "official party
+line," the way we work on these issues is through discussion.
 
 ## Digital Cash
 
@@ -114,11 +183,58 @@ American and True CypherPunk with a humungous schlong once sent a
 post to the list, titled, "Forgeries are your Friend."
 Think about it...
 
+## Government
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>Why doth governments never prosper? For if governments doth prosper,none
+dare call it government.
+
 ## Nationalism
 
 #### [A 4000-Cray Machine at NSA in 1997?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/07/3a5884bd4aee0f16ea368bf15fcd5550c7ea4a76cd921fbbab922fd6fdb8c7a7/)
 
 >National borders are just speed bumps on the information superhighway.
+
+## Taxation
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>Jason Solinsky and Mike Duvos argue for a kind of voluntary,
+donation-supported, non-coercive, service-providing government, funded
+voluntarily by citizens who presumably think they are getting their money's
+worth.
+>
+>Well, this is first of all a *very nonstandard* interpretation of
+"government"...more on this later (and how the idea of "privately-produced
+law" figures in).
+>
+>I'm skeptical that governments would give up their current use of coercion,
+or threat of coercion (the fallback position that gives their various
+edicts more teeth than, for example, my edicts or your edicts). I'm even
+more skeptical that the current bloated state could be funded by the small
+fraction of the population that--in my opinion--would make donations. (Mike
+has argued elsewhere that his concept is of a utopian state much smaller
+than we have today....an even less likely possibility unless that bloated
+state is starved to death by the methods many of us advocate...
+
+
+#### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
+
+>"...imagine if they tied decision making power to
+how much you pay in taxes" was tried a while back: only tax-payers could
+vote. I'm all in favor of this, but I doubt many of my fellow citizens are.
+>
+>(And to some extent we have this, through bribes and influence-buying.
+Campaign contributions, etc.)
+>
+>Would anyone choose to pay more in taxes for an increased voting share?
+Hardly. Do the math on how influential any one vote is in an election. For
+specific cases, maybe. Again, that's how influence-peddling arises. Not a
+very healthy development, even for a cynic like me.
+>
+>(I view governments as protection rackets. The last thing we need is a
+bidding war between various sides in a dispute.)
 
 ## Tyranny 
 
