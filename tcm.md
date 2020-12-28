@@ -58,7 +58,29 @@ other predators here.)
 >And these systems don't have to wait for implementation at some future time
 in cyberspace....they already exist all around us.
 >
-.Just don't call them governments, because they ain't.
+>Just don't call them governments, because they ain't.
+
+## Assassination Markets
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
+
+>...here's how escrow makes murder contracts
+much safer than they are today to negotiate. Instead of one party being
+caught in an FBI sting, as is so often the case when amateurs try to
+arrange hits, they can use an escrow service to insulate themselves from:
+>
+>1. From being traced, because the exchanges are handled via pseudonyms
+>
+>2. From the killer taking the money and then not performing the hit,
+because the escrow agent holds the money until the murder is verified
+(according to some prototocol, such a newspaper report...again, an area for
+more work, thankfully).
+>
+>3. From being arrested when the money is picked up, as this is all done via
+digital cash.
+>
+>There are some ways to reduce the popularity of this Murder, Incorporated
+system. 
 
 ## Autobiography
 
@@ -67,6 +89,10 @@ in cyberspace....they already exist all around us.
 >Whenever I disagree with some of the paranoids and ranters, I am
 called a traitor, a hypocrite, a lackey of Eric Hughes, a member of
 the "Clique," and on and on.
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
+
+>Less than 2 years ago I was a homeless person, living on the banks of the San Lorenzo River. Then I met a person named "Timothy C. May." He wasn't interested in being on the Net anymore--he said it took too much of his time--so he gave me his account, his password (which I've since changed, of course), and said ‘Have fun.’
 
 ## Books
 
@@ -82,6 +108,26 @@ of multiple, competing legal systems. A fictional treatment of this can be
 found in Neal Stephenson's novel "Snow Crash," and a more scholarly
 treatment can be found in David Friedman's "The Machinery of Freedom" and
 in Bruce Benson's "The Enterprise of Law."
+
+## Credentials
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
+
+>Ask yourself why credentials are
+_ever_ needed. Maybe for driving a car, and the like, but in those cases
+anonymity is not needed, as the person is in the car, etc.
+>
+>Credentials for drinking age? Why? Let the parents enforce this, as the
+argument goes about watching sex and violence on t.v. (If one accepts the
+logic of requiring bars to enforce children's behavior, then one is on a
+slippery slope toward requiring television set makers to check smartcards
+of viewers, or of requiring a license to access the Internet, etc.)
+>
+>In almost no cases do I see the need to carry "papers" with me. Maybe a
+driver's license, like I said. In other areas, why?
+>
+>This gets to a core issue: the incredible benefits of locally clearing a
+transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
 
 ## Cryptoanarchy 
 
@@ -174,6 +220,44 @@ touch with me.
 >Make no mistake, a government-run cashless society will be worse that
 Orwell's worst.
 
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
+
+>Danger! Danger! Danger! Any system, that relies on physical IDs is
+substantially less private that banks today in many countries, and is not
+at all what I would call "digital cash."
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
+
+>Chaum went to great lengths to develop system which
+preserve anonymity for single-spending instances, but which break anonymity
+and thus reveal identity for double-spending instances. I'm not sure what
+market forces caused him to think about this as being so important, but it
+creates many headaches. Besides being clumsy, it require physical ID, it
+invokes a legal system to try to collect from "double spenders," and it
+admits the extremely serious breach of privacy by enabling stings. For
+example, Alice pays Bob a unit of money, then quickly Alice spends that
+money before Bob can...Bob is then revealed as a "double spender," and his
+identity revealed to whomver wanted it...Alice, IRS, Gestapo, etc. A very
+broken idea.
+
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
+
+>Is there a danger that people will lose the numbers that they need to
+redeem money? That someone could steal the number and thus steal their
+money?
+>
+>Sure. There's the danger that I'll lose my bearer bonds, or forget my Swiss
+bank account number, or lose my treasure map to where I buried my money (as
+Alan Turing supposedly did in WW II).
+>
+>People can take steps to limit risk. More secure computers. Dongles worn
+around their necks. Protocols that involve biometric authentication to
+their local computer or key storage PDA, etc. Limits on withdrawals per
+day, etc. People can store key numbers with people they trust, perhaps
+encrypted with other keys, can leave them with their lawyers, etc. All
+sorts of arrangements can be made.
+
 ## Forgery
 
 #### [Re:"... would cause us to look at this person as a threat"](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/4b97eac0e00b434f40e681151cd8ab1338811104c62bd7e6cc03b3b54e2b23db/)
@@ -195,6 +279,31 @@ dare call it government.
 #### [A 4000-Cray Machine at NSA in 1997?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/07/3a5884bd4aee0f16ea368bf15fcd5550c7ea4a76cd921fbbab922fd6fdb8c7a7/)
 
 >National borders are just speed bumps on the information superhighway.
+
+## Repudiation
+
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
+
+>Hal is right the problem of *repudiation* or *disavowal* was recognized
+early on. Alice is confronted with a digital signature, or whatever. She
+says; "But I didn't sign that" or "Oh, that's my old key--it's obsolete" or
+"My sysadmin must have snooped through my files," or "I guess those key
+escrow guys are at it again."
+>
+>APPROACHES TO REPUDIATION
+>
+The purist approach: you *are* your key. If another biological unit
+obtains your key, he or she is effectively you. Guard your key carefully.
+>
+>The modern American "excuse" approach: Hey, if you want to disavow a
+contract, like, just claim your key was stolen or, like, you lost it.
+>
+>I understand the reasoning behind adopting a more intermediate stance, but
+I think that only the purist stance will hold water in the long run.(A hint
+of this: untraceable cash means, for most transactions of interest with
+digital cash, that once the crypto stuff has been handled, whether the sig
+was stolen or not is moot, because the money is gone...no court can rule
+that the sig was invalid and then retrieve the cash!
 
 ## Taxation
 
