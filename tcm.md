@@ -70,6 +70,20 @@ in cyberspace....they already exist all around us.
 
 >...there are many reasons a buyer does not wish to disclose buying preferences. But buyers and sellers BOTH need protections against tracking: a seller of birth control information is probably even more at risk than some mere buyer of such information (in many countries). Then there’s blasphemy, sacrilege and political activism. Approaches like Digicash which concentrated on *buyer* anonymity (as with shoppers at a store or drivers on a toll-road), but were missing a key ingredient: that most people are hunted-down for their speech or their politics on the *seller* side.
 
+#### [Re: Anonymous remailers: A call to arms wanted](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/8ee8ed30963de54439e91e7d96a894b56842f3565c40066feb85190c63cd14d3/)
+
+>Anonymous remailers protect speakers from retaliation. The Founders used
+anonymity, as the pseudonymous writings in the Federalist Papers show. Granted, some anonymous posts are drivel, some are even illegal. So?
+>
+>The government is attempting to get anonymous remailers shut down, is
+proposing restrictions on strong cryptography, and is trying to make it
+look as though anyone supporting these things is a kind of right-wing
+militia member crazy.
+>
+>If you don't _like_ something, some opinion, either ignore it or write a
+rebuttal. But don't play their game by saying there's something basically
+_wrong_ with anonymous remailers.
+
 ## Assassination Markets
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
@@ -103,6 +117,10 @@ the "Clique," and on and on.
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
 
 >Less than 2 years ago I was a homeless person, living on the banks of the San Lorenzo River. Then I met a person named "Timothy C. May." He wasn't interested in being on the Net anymore--he said it took too much of his time--so he gave me his account, his password (which I've since changed, of course), and said ‘Have fun.’
+
+#### [SAFE Bill is a Disaster–“Use a cipher, go to prison”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/be751b2cf978e0c363b0101d3355ed622eee5130bd22cc7b2224c887497563cf/)
+
+>Tim May, who is a felon under various laws, and who has used crypto in furtherance of these felonious activities, and who hence faces 10 years in the pokey for the SAFE "crime" of using crypto in furtherance of multiple prosecutable offenses…
 
 ## Bitcoin
 
@@ -346,12 +364,39 @@ American and True CypherPunk with a humungous schlong once sent a
 post to the list, titled, "Forgeries are your Friend."
 Think about it...
 
+## Free Speech
+
+#### [Threats of Legal Action and C2Net/Stronghold Issue](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/02/e3ea1a9f3ee0ec3c622e58110be203d054443f234249b5468d76d7251ca44502/)
+
+>Sunlight is the best disinfectant, as a Supreme Court justice averred. And
+suppression is a breeding ground for all sorts of bacteria, fungi, and ugly
+growth, as a less articulate person said.
+
+#### [Threats of Legal Action and C2Net/Stronghold Issue](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/02/e3ea1a9f3ee0ec3c622e58110be203d054443f234249b5468d76d7251ca44502/)
+
+>Truth is an absolute defence against libel claims.
+
 ## Government
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
 
 >Why doth governments never prosper? For if governments doth prosper,none
 dare call it government.
+
+## Law
+
+#### [SAFE Bill is a Disaster–“Use a cipher, go to prison”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/be751b2cf978e0c363b0101d3355ed622eee5130bd22cc7b2224c887497563cf/)
+
+>I've been watching these so-called "crypto liberation" bills, Pro-CODE and
+SAFE, wend their ways through the legislative process. Both are severely
+flawed. Both should be rejected. Passing laws with flaws is worse than
+doing nothing, than just relying on the good old Constitution for our
+rights.
+
+
+#### [SAFE Bill is a Disaster–“Use a cipher, go to prison”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/be751b2cf978e0c363b0101d3355ed622eee5130bd22cc7b2224c887497563cf/)
+
+>There's something wrong when I'm a felon under an increasing number of laws.
 
 ## Nationalism
 
