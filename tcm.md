@@ -4,9 +4,7 @@ title: "Timothy C. May: From Anarchy to Welfarism"
 image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 ---
 
-# Timothy C. May
-
-## From Anarchy to Welfarism
+# Timothy C. May: From "Anarchy" to "Welfarism"
 
 ### Version 0.1 - Modified 28 December 2020
 
