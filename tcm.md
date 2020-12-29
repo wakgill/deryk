@@ -213,6 +213,31 @@ in Bruce Benson's "The Enterprise of Law."
 also had some crypto in it. This is even better, both as a novel and in
 terms of the amount of crypto and cryptanalysis portrayed. 
 
+## Censorship
+
+#### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
+
+>One way "voluntary" age ratings--very similar to PICS ratings--may be
+mandated is through the kind of "plea agreement" cited below. (I don't
+know if this site is real or not, but the post presents a scenario which
+will become more common, I think.)
+>
+>Someone writes something, or has a site, and is busted for some charge.
+(There are many, even with what remains of the First Amendment. Child
+porn, obscenity, the new copyright laws, the Anti-Terrorism Act, etc.) A
+nolo contendre or guilty plea to a lesser charge is entered, with the
+agreement that an age verification system will be used, or a PICS rating,
+etc. And so the government gets the kind of censorship it wants.
+>
+>(Duncan will likely argue that this is impossible to enforce. Maybe in the
+limit, in the sense that some will fall through the cracks. But the
+dangers to anyone hosting words or pictures on their sites is very real.
+As more and more ISPs drop controversial material--think of several recent
+cases, and perhaps even the case of our own John Young--and as more child
+porn/celebrity nude/obscenity cases are filed....by the time the Thomases
+are both out of prison, most sites will likely be heavily editing
+themselves, imposing age limits, and using PICS ratings.)
+
 ## Credentials
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
