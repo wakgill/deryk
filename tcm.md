@@ -127,6 +127,17 @@ the "Clique," and on and on.
 
 >Tim May, who is a felon under various laws, and who has used crypto in furtherance of these felonious activities, and who hence faces 10 years in the pokey for the SAFE "crime" of using crypto in furtherance of multiple prosecutable offenses…
 
+#### [Re: RUSSIAN DEFECTOR WARNS OF PRE-POSITIONED PORTABLE NUKES](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/09/88f5ad66a78762b74138f98f29632abda49a70700f23872c97d6ad296e6c78c9/)
+
+>...somebody must have cursed us, because we truly do live in
+interesting times. Y2K, terrorism, busts of cypherpunks, martial law
+contingency plans, a meltdown of Asian and Russian economies (with Latin
+America apparently headed down the same drain), Asama bin Laden, VX nerve
+gas, Ebola being developed in weapons labs, and on and on.
+>
+>I'm glad I live far away from safe targets and have accumulated enough
+supplies to "hunker" down for a long time.
+
 ## Bitcoin
 
 #### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
@@ -264,6 +275,12 @@ driver's license, like I said. In other areas, why?
 >
 >This gets to a core issue: the incredible benefits of locally clearing a
 transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
+
+## Crypto
+
+#### [Re: DoD Asks Me to Stop Quoting From the Congressional Record](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/10/410eba44422af68b55cc46037813e42639a5588c4ef8eb3a3257ecda11540acb/)
+
+>The Feds have shown their hand: they want a ban on domestic cryptography.
 
 ## Cypherpunks
 
