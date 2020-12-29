@@ -238,6 +238,13 @@ porn/celebrity nude/obscenity cases are filed....by the time the Thomases
 are both out of prison, most sites will likely be heavily editing
 themselves, imposing age limits, and using PICS ratings.)
 
+## Constitution
+
+#### [Federal Emergencies, Martial Law, etc.](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/12e8632982dc5389381f1528e3259cc133def38d7503dfe296ec4de76ab52ae8/)
+
+>What do you call the first 10 amendments to the Constitution? My answer: "You
+call them null and void.
+
 ## Credentials
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
@@ -435,6 +442,12 @@ growth, as a less articulate person said.
 
 >Why doth governments never prosper? For if governments doth prosper,none
 dare call it government.
+
+#### [Federal Emergencies, Martial Law, etc.](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/12e8632982dc5389381f1528e3259cc133def38d7503dfe296ec4de76ab52ae8/)
+
+>...government views us as cogs in the machine, to be
+used as necessary...private property may be seized at will. 
+
 
 ## Guns
 
