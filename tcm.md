@@ -214,13 +214,13 @@ visions of a fully-computerized society.
 
 >I promised to mention "private produced law," or PPL. This is the notion
 of multiple, competing legal systems. A fictional treatment of this can be
-found in Neal Stephenson's novel "Snow Crash," and a more scholarly
-treatment can be found in David Friedman's "The Machinery of Freedom" and
-in Bruce Benson's "The Enterprise of Law."
+found in Neal Stephenson's novel ["Snow Crash,"](https://amzn.to/3rAamIN) and a more scholarly
+treatment can be found in David Friedman's ["The Machinery of Freedom"](https://amzn.to/34Uf0rE) and
+in Bruce Benson's ["The Enterprise of Law."](https://amzn.to/2JscKQT)
 
 #### [Novel Recommendation: “Black Cipher”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/6ce26ebceef24b1f31293a4caebb1662a550623a1a14d17980f2cb53ff633000/)
 
->I just read a fine novel, a "crypto-thriller," called "Black Cipher…Several weeks ago I recommended Joseph Finder's "The Zero Hour," which also had some crypto in it. This is even better, both as a novel and in terms of the amount of crypto and cryptanalysis portrayed. Highly recommended...Several weeks ago I recommended Joseph Finder's "The Zero Hour," which
+>I just read a fine novel, a "crypto-thriller," called ["Black Cipher"](https://amzn.to/3mUsWrF)…Several weeks ago I recommended Joseph Finder's "The Zero Hour," which also had some crypto in it. This is even better, both as a novel and in terms of the amount of crypto and cryptanalysis portrayed. Highly recommended...Several weeks ago I recommended Joseph Finder's ["The Zero Hour,"](https://amzn.to/2KJzMTJ) which
 also had some crypto in it. This is even better, both as a novel and in
 terms of the amount of crypto and cryptanalysis portrayed. 
 
