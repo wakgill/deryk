@@ -426,6 +426,29 @@ prepared.
 >
 >Meanwhile, deploy as much crypto stuff as possible.
 
+## Curfew
+
+#### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
+
+>My kids don't cotton to no cop telling them when they can be out in public
+and when they can't. Any cop who tries to stop my kids from being out has
+earned severe retaliation. Any councilmember or state legislator who voted
+for such a curfew needs to be hog-tied, covered with tar, then torched.
+
+#### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
+
+>I determine where my children may
+be, and I don't need the State's permission for them to be out. I would
+think anyone with an iota of libertarian sentiment would understand this.
+
+#### #### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
+
+>I may sound harsh here, but "curfew" means one and only one thing to me:
+somebody restricting my freedom of those of my children to be a public
+place. Should one of my children be picked up by cops for doing nothing
+illegal, save for being "out past curfew," I'd consider violent response to
+be justified. 
+
 ## Cypherpunks
 
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
@@ -909,6 +932,18 @@ shoes?
 indicative of a major shift in the American system is this: "They" have certain rights the rest of "us" don't have.  Who are "they"? Law enforcement, the military, the spies, [and] the secret police.
 >
 >The ‘us’ is anyone not in a special group exempted from the ban…This makes for a dangerous society, civil liberties-wise, when industrial companies and shops have two classes of customers: them and us…We’re not talking about private ownership of nukes. We’re talking about a situation where a citizen can go to prison for having a knife longer than 3 inches in his pocket, while cops are free to have them for their own purposes. This stinks.
+
+## Mormons
+
+#### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
+
+>[Mormon's] enforce the "curfew" big time? Looks like some Mormon pigs need to be zapped.
+>
+>I guess this is why I wouldn't last very long in Mormon Country. A fascist
+encampment, it sounds like. (I have no problem with Mormons, or Catholics, or Muslims, or Satanists
+keeping _their own_ children indoors after 7, or 5, or whatever their Holy
+Hour or Curfew Hour is, but no fucking religious nuts are going to tell
+_me_ when _my_ children must be indoors. 
 
 ## Movies
 
