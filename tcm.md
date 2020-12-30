@@ -6,7 +6,7 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 
 # Timothy C. May: From "Anarchy" to "Welfarism"
 
-This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers.
+This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers. The work includes reading something like 3,000 emails, many of which were essay length. If you would like to support it, you can in [Bitcoin.](/deryk/support)
 
 <div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;"> 
 [ad] Your product ad can go here and reach tens of thousands of readers of this book. I only advertise products I like and use! <a href="https://wakgill.github.io/deryk/#contact">Email</a> me.
