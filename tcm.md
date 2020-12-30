@@ -62,6 +62,66 @@ in cyberspace....they already exist all around us.
 >
 >Just don't call them governments, because they ain't.
 
+#### [The Road to Crypto Anarchy](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/aefb45a883c4fa0a1f4b123cc6fafe6ba9d1f77b29de84f4fcdcf0372b897632/)
+
+>I believe, and have argued this for at least several years, that we are in
+a "race to the fork in the road." The fork in the road being essentially
+the point of no return, beyond which things are either pulled strongly to
+one end or the other. The two ends being:
+>
+>* a surveillance state, with restrictions on cryptography, the spending of
+money, the holding of various items (besides just traditional things like
+guns and drugs), restrictions on the dissemination of information, and of
+course controls on lots of other things.
+>
+>(For those who think this scenario is ipso facto unconstitutional, look at
+the many moves already in this direction. Between Supreme Court decisions
+allowing searches and seizures without warrants (e.g., on buses, planes,
+etc.), restrictions on discussion of crypto in public places (ITARs), there
+are a raft of "Presidential Decision Directives" and "National Security
+Decision Directives" which grant the Executive wide powers to seize control
+of telecommunications systems, computer networks, emergency systems, etc.
+While this is fodder for conspiracy theory supporters, it concerns many
+civil liberties advocates as well.)
+>
+>* a libertarian or anarcho-capitalist state, with people using a variety of
+secure and private channels to interact, exchange information, buy and sell
+goods and services, and communicate transnationally. The "anarchy" being
+the same kind of anarchy seen in so many areas of life: reading choices,
+eating choices (except for drug laws), this list, and so on.
+>
+>(For those who think this scenario is hopelessy rosy, pointing out that
+people "can't eat cyberspace," this is surely so. But a large fraction of
+"interesting" interactions are already done on the Net, or via phones, or
+other such mechanisms. And even if many people are not in cyberspace at
+all, if enough of us _are_ and are _secure_, I'll settle for that. The rest
+can come later.)
+>
+>The reason I believe there's a point of no return is this: once, for
+example, enough strong, encrypted, black channels are available, it will
+essentially be too late to crack down and stop them. Add to the mix
+steganographic channels, lots of bandwidth over several mechanism, and it's
+too late.
+
+#### [The Road to Crypto Anarchy](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/aefb45a883c4fa0a1f4b123cc6fafe6ba9d1f77b29de84f4fcdcf0372b897632/)
+
+>...each major "incident"--Oklahoma City, TWA 800,
+etc.--jumps us forward toward a totalitarian surveillance state. However,
+each new anonymous remailer, each new Web site, each new T1 or whatever
+link, etc., moves us forward in the direction of crypto anarchy.
+
+
+#### [The Road to Crypto Anarchy](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/aefb45a883c4fa0a1f4b123cc6fafe6ba9d1f77b29de84f4fcdcf0372b897632/)
+
+>Make no mistake about it,  the faster and more ubiquitously we can deploy
+as much strong crypto as possible (e.g., the Gilmore SWAN thing, more
+remailers, offshore havens, etc.), the greater the likelihood we'll win.
+(And winning will have some rather interesting  consequences for society.)
+>
+>I think there's currently about an 80% chance we'll win, with maybe a 30%
+chance that we've already won, that we've already reached the point of no
+return and are on the path to crypto anarchy.
+
 ## Anonymity 
 
 #### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
@@ -136,6 +196,10 @@ supplies to "hunker" down for a long time.
 >The military _did_ put me in one of their hidden military prisons, but
 decided I would be more useful on the Cypherpunks list. I recognize several
 other names here from my work brigade. --Citizen-Unit Tim "The Zek" May
+
+#### [Hallam-Baker demands more repudiations or he’ll write!](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/d0e68167f00737b3a69e2450a3d3dba30d0dfcb72cf86d2250f9a728ee2db25a/)
+
+>I for one don't respond well to extortion threats, so write your damned article.
 
 ## Bitcoin
 
@@ -239,6 +303,14 @@ Prentice-Hall, ISBN 0-13-103805-2.
 make finding topics easy, it seems to be a great compendium of methods
 loosely called "AI."
 
+#### [The Lotus Position](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/01/88594b9934f2a56394c048e221e97a4aa6a0b712f2d1f312121f956a9f4f4ee9/)
+
+>...the black budgets of other
+intelligence agencies, as described in Richelson's excellent books and
+other books (such as "Deep Black," an unauthorized history of the National
+Reconnaissance Organization), can only be described as "stupefyingly
+large."
+
 ## Censorship
 
 #### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
@@ -304,6 +376,17 @@ driver's license, like I said. In other areas, why?
 >This gets to a core issue: the incredible benefits of locally clearing a
 transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
 
+## Crime
+
+#### [Re: “Confessing to a felony”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/3417afa60751c062e471ba10c8eb2af788244feced7db45c1da5eb03176dc12a/)
+
+>"Stupid bragging criminals" may be common, but bragging is not in and of
+itself illegal. There still has to be evidence of a crime. "Produce the body."
+>
+>(I can say I personally whacked Jimmy Hoffa. Absent other evidence, or the
+body, or witnesses, does this mean I'll be found guilty? To use BU's
+phrasing, "for crying out loud.")
+
 ## Crypto
 
 #### [Re: DoD Asks Me to Stop Quoting From the Congressional Record](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/10/410eba44422af68b55cc46037813e42639a5588c4ef8eb3a3257ecda11540acb/)
@@ -317,6 +400,31 @@ or as being ignorant of Emacs, but this is how crypto will become truly
 ubiquitous. Not when people have to learn to compile code and create
 clients, but when they can send encrypted messages easily and
 transparently.
+
+#### [The Road to Crypto Anarchy](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/aefb45a883c4fa0a1f4b123cc6fafe6ba9d1f77b29de84f4fcdcf0372b897632/)
+
+>On the issue of terrorists, child molestors, and other Horsemen using PGP,
+PGPhone, etc., how else could it be? After all, use of PGP is being
+promoted by folks like us, and many others, and the molestors, Mafiosos,
+money launderers, Palestinian Neo-Intifada (the war that just started this
+week) sympathizers, nuclear material smugglers, and other assorted
+miscreants (or heroes, depending on one's outlook) are surely thinking
+about securing their communications.
+>
+>So what? After all, as we've been pointing out for years, criminals and
+conspirators also have locks on their doors, use curtains on their windows,
+keep their voices down when speaking amongst themselves in public, rent
+hotel rooms to plot crimes, and generally use various methods to better
+ensure privacy and secrecy. And yet the Constitution is pretty clear that
+we don't insist windows be uncurtained, conversations be "escrowed," and
+locks have keys "escrowed." And so on, with various of the rights
+enumerated in the Bill of Rights covering these situations (4th, 1st, etc.).
+>
+>The inevitable use of strong crypto by some criminal, perhaps even a
+heinous one, will be used as an argument to restrict crypto. We have to be
+prepared.
+>
+>Meanwhile, deploy as much crypto stuff as possible.
 
 ## Cypherpunks
 
@@ -796,6 +904,14 @@ worried about it.
 >
 >Still, more studies and technical attacks (technical, not verbal) would be
 welcome.
+
+## NSA
+
+#### [The Lotus Position](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/01/88594b9934f2a56394c048e221e97a4aa6a0b712f2d1f312121f956a9f4f4ee9/)
+
+>I take it as self-evidently true that NSA would spend the relatively small
+amount of money to build a dedicated key cracker...probably at least
+several for each major cipher.
 
 ## Police
 
