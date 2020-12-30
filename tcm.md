@@ -676,6 +676,58 @@ declares to be contraband in the civilian sector. (Pilots, for example,
 are given uppers to maintain alertness, but of course a truck driver
 caught with them faces jail.)
 
+## Employment
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>...the "nanny tax" and related paperwork needed to hire a person for even
+a few hours worth of work has made much casual work (the "odd jobs" that
+drifters used to get to earn enough money to eat) almost impossible to
+arrange. (Every morning there are Mexicans lined up in the parking lot of a
+K-Mart in a nearby town, with contractors seeking to hire temporary
+laborers. The contractors know all the forms to fill out, if they bother.
+Casual employers like me know they risk heavy fines if caught hiring
+"undocumented workers," or failing to dot all the "i"s and cross all the
+"t"s, even for a 4-hour job. So much for liberty.
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>It has become almost impossible to find good tradespeople. Stories of
+good gardeners, babysitters, maids, and even roofers being "hoarded" by
+Marin County or Beverly Hills millionaires are only partially exaggerated.
+This has a lot to do with the limited supply, and also with problems of
+work ethic, honesty, and such things, many of which have changed rather
+dramatically in recent decades. Where once a worker in one's house could
+mostly be trusted, despite the occasional reports of items of silverware
+missing, today's workers are seldom to be trusted alone in the house.
+Horror stories abound of "home alone" workers throwing parties, rooting
+through the personal papers of their employers, and of robbing the houses
+of whatever they could carry.
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>I knew someone married to a honcho in CalTrans, the California Department
+of Transportation, responsible for the freeways. He confirmed that "cheap
+labor" is barred, by various union contracts negotiated over the years, and
+that the starting pay for CalTrans workers is $30K a year...probably more
+by now. So, "homeless people" are sitting around begging for spare change
+and harassing passersby, welfare mothers are collecting welfare, AFDC, food
+stamps, and WIC money for doing nothing except their specialty (as someone
+noted, "welfare-powered bastard factories"), University of California
+"History of Consciousness" (yes, a real major) graduates are waitressing
+tables at local Santa Cruz restaurants (because they can't find employers
+who want a "HofC" graduate, as with so many worthless majors), all the
+while CalTrans is hiring "transportation engineers" for
+far-more-than-market prices to pick up trash on highways. Anybody still
+think things are not out of whack?
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>And make it easier to hire people, instead of harder. (And if one hires a
+maid, and the maid steals, cut off her hand. We've lost sight of justice,
+and people think that ripping off the rich is their kind of justice. This
+needs to change.)
+
 ## Escrow
 
 #### [Re: MS Money password problem](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/2ff48e790a7890f8c02b0c355d5fa22eef58a756303b909bf3d4c41b5d202870/)
@@ -1108,6 +1160,29 @@ learned, and one might as well teach the basics in earlier grades and
 dispense with meaningless lectures about how and when the Senate may invoke
 cloture, how the Foreign Powers Act modified the 1877 Trade Act, and so on.)
 
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>For the last couple of weeks I've been hauling 70-pound stones to build a
+retaining wall (don't ask me about the permits I should've gotten), ripping
+up redwood deck boards, digging postholes for a new fence, and generally
+doing a couple of hours of manual labor every day. While it has its
+advantages, in earlier days I could've counted on providing some employment
+for someone who today is "a homeless person." No more. They're not
+psychologically prepared to do a solid (if unspectacular) job, as they've
+been taught for all of their lives that they went through high school and
+maybe a couple of years of college (and maybe more) so they could join the
+professional ranks....when they see they really won't be joining the
+professional ranks, and that they really don't want to make the sacrifices
+to, they have nothing to fall back on.
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>...a college education
+should only be pursued if one has a "calling" to be an engineer, a
+programmer (and probably not even that, judging by what I see), a doctor, a
+lawyer (on second thought, don't ever suggest they become lawyers), and so
+on.
+
 ## Taxation
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
@@ -1218,3 +1293,28 @@ goals to recognize these important trends, like them or not.
 >The tree of tyranny must be watered periodically with the piss of citizens...
 
 
+## Welfarism
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>...welfare mothers are collecting welfare, AFDC, food
+stamps, and WIC money for doing nothing except their specialty (as someone
+noted, "welfare-powered bastard factories")...
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>Tell people if they don't work, they won't eat. If
+they do something others are willing to give them money to do, they won't
+get money. They won't get "entitlements" from the government (= taxpayers,
+= those who are working, = me and thee).
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>Psychologists and similar psychobabblers call it "tough love." If one
+always "enables" an addict, a layabout, a shiftless worker, with excuses
+and handouts, the behavior does not change. To save a person, sometimes
+harshness is needed.
+>
+>This is why crypto anarchy's starving of the tax system is good. It may
+"kill" some number of people, as nearly any new idea does, but ultimately
+it will put things back on track.
