@@ -1,1 +1,6 @@
 title: Deryk Makgill's Website
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
