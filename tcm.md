@@ -16,7 +16,7 @@ This <code>in-progress</code> book gathers for the first time the enigmatic cyph
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
 
->Without the legal monopoly on coercion, this so-called "government" would
+>Without the legal monopoly on coercion, "government" would
 be just another service provider, like Safeway or Goodyear or K-Mart.
 Economies of scale work against a large, slow-moving bureaucracy, so the
 so-called goverment would devolve quickly into multiple small pieces.
@@ -449,6 +449,18 @@ place. Should one of my children be picked up by cops for doing nothing
 illegal, save for being "out past curfew," I'd consider violent response to
 be justified. 
 
+#### [Re: Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/1ef2e64d55c0fb5a673cad79e3e8d5c926f854e49567f4e314f3e7a76ef414d2/)
+
+>There are some thorny issues about whether _minors_ have full civil
+rights. But I certainly know that _my_ civil rights are being affected when
+my children are not allowed on the streets after some hour. If my child is
+out, this is my problem. I neither want cops to stop-and-detain my
+children, nor do I want my tax monies to be used to control the behavior of
+other people's children. Providing no crimes are being committed, curfews
+for the sake of controlling the behavior of children are no more just than
+would be a bunch of related behavior control laws, e.g., a ban on comic
+books, a mandate that all children join after-school youth leagues, etc.
+
 ## Cypherpunks
 
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
@@ -820,6 +832,42 @@ is indeed so, and I don't even necessarily think this is completely
 unreasonable...though I now am more inclined to support the right to keep
 and bear nukes.
 
+## Infowar
+
+#### [Re: ADJ_ust](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/62a2b6ccf81bd533d6bac952f2f28e93f6ebf9dc1960d20e3a73f572340e9565/)
+
+>Personally, I think there's a lot of hype about this whole "infowar" thing.
+Sure, security measures and vulnerabilities always need to be looked at,
+but a lot of the rhetoric is being driven by journalists looking for lead
+stories.
+
+## Justice
+
+#### [Re: active practice in America](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4654feaba1c756986dbb56ceb4e749fa8460ce3d9d3fcc34c26ea4d8fa51f0a0/)
+
+>...what's happened to "double jeapardy"? The four cops were
+found "Not Guilty" in their criminal trial (or at least three of them
+were...I forget the details--one may have been a mistrial).
+>
+>So, as some people then proceeded to burn down their neighborhoods, loot,
+and run amok in the streets for several days, a _second_ trial was held.
+This time the verdicts were more in line with what the street wanted, plus,
+all the good electronics stores had already been looted or had moved out of
+South Central, so no riots.
+>
+>(Legal purists will point out that the second trial was for "Federal civil
+rights violations." Harummphh. What would the Founders think of this logic:
+"First we try them on ordinary criminal charges. If they are found Not
+Guilty, we charge them in the next higher court with more abstract charges.
+If they are still found found Not Guilty, we hit them with "civil rights"
+and "being disrespectful to women" charges. And if that doesn't work, we
+charge them in the World Court. We've only had one guilty party get past
+them, and for that guy we appealed to the Pope and he put a Papal Hex on
+the guy and ordered him burned in oil.")
+>
+>Double jeapardy means the system gets one shot at proving charges, not two
+or three.
+
 ## Journalism
 
 #### [Re: PRZ Interview in Infobahn Magazine](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/387f280071001a65651e30f8c1caf72ac0847e8677478c43b28ac5684484ea2f/)
@@ -833,6 +881,10 @@ Mitnick and Shimomura in "Rolling Stone."
 >
 >Anyway, flame away with your claims that publicity is good, that the dozens
 of PRZ interviews are doing some good. I'm becoming more of a Zen Buddhist monastic skeptic on these issues every day. --Tim May, happy to be far from the madding crowd
+
+#### [Re: Katz on cypherpunks, in HotWired’s Media Rant](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/b36df05d5ac9ecec8c0acf7e41d0723f4cc83092a5c57fad78bf77904ff59b22/)
+
+>"Wired" and "HotWired" disgrace themselves.
 
 ## Keys
 
@@ -989,6 +1041,23 @@ conversations with the Arabs purchasing the terrorist actions.
 >I take it as self-evidently true that NSA would spend the relatively small
 amount of money to build a dedicated key cracker...probably at least
 several for each major cipher.
+
+## O.J. Simpson
+
+#### [Re: active practice in America](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4654feaba1c756986dbb56ceb4e749fa8460ce3d9d3fcc34c26ea4d8fa51f0a0/)
+
+>...even though I am sure O.J. Simpson killed those two people, I am
+not happy with what appears to be a _second_ trial. For sure, it's a
+_civil_ trial, for damages, but to this layman it looks like a second trial
+on the main charges. I suppose I always thought that being found "Not
+Guilty" on the act itself made it essentially impossible for a civil trial
+to redecide the same issue. Boy, was I wrong.
+
+#### [Re: active practice in America](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/329bd51086c87cbdad8d8c2564c8db8048d1a080d4fe38b400999acf24abd1c8/)
+
+>The O.J. trial was a case of a mostly-black jury refusing to convict an
+obviously guilty black defendant....and yet I don't hear calls for a
+_second_ criminal trial.
 
 ## PGP
 
