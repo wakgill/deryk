@@ -636,6 +636,27 @@ criminals, but they have surely all richly earned whatever befalls them.)
 >...make your letters to Congressmen look like ransom notes...it really
 gets their attention!
 
+#### [Automated Rant Generators and Letter Generators](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/7e3018c01e375601631c9c695219f6e7232a1f075fa895023d101558a4b34acd/)
+
+>I have no doubt that the next generation of "direct mail" will
+be geared toward automatic generation of personalized letters, using
+various natural language parser generators (a la the "rant generator" many
+of us have used), variable fonts and margins, and so on.
+>
+>This will further "flood the channel" and will ultimately make letter
+writing mostly meaningless. IN my case, I skip most letters to the
+editor--at least for local newspapers and weeklies--as they look to be
+automatically written ("I am outraged at your article about converting
+Lighthouse Point into a nuclear-powered whale-packing plant...").
+>
+>Cypherpunks could probably have an effect on hastening this "denial of
+service" attack on the efficacy of letter-writing by releasing an
+easy-to-use package that does all this letter writing at the click of a
+button....just type in some key words, for the topics, and it does the
+rest.
+>
+>An interesting project, actually.
+
 ## Repudiation
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
