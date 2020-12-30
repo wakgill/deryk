@@ -217,6 +217,12 @@ in Bruce Benson's ["The Enterprise of Law."](https://amzn.to/2JscKQT)
 also had some crypto in it. This is even better, both as a novel and in
 terms of the amount of crypto and cryptanalysis portrayed. 
 
+#### [Re: Netscape the Big Win](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/192aacecf33c91147531eab2dd0ab4853e2979d794b8270e0678a73eef28194a/)
+
+>Folks who think the
+stronger technology will inevitably win should pick up a copy of a
+15-year-old book called "The Soul of a New Machine," by Tracy Kidder.
+
 ## Censorship
 
 #### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
@@ -275,6 +281,14 @@ transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
 
 >The Feds have shown their hand: they want a ban on domestic cryptography.
 
+#### [Re: Netscape the Big Win](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/bf680dc334fb065b715ba97c1fcefd666a4376c5f5399c45bf4f89becf3d3f36/)
+
+>We may dismiss the masses as not being true Unix gurus
+or as being ignorant of Emacs, but this is how crypto will become truly
+ubiquitous. Not when people have to learn to compile code and create
+clients, but when they can send encrypted messages easily and
+transparently.
+
 ## Cypherpunks
 
 #### [Re: Safe and fun environment?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/10/a1934717cfda007cf90bac79ed0548170f562ad099881014f13b5adcf0301dda/)
@@ -310,6 +324,53 @@ can by being just another ineffectual lobbying group.
 
 >...who could claim to "speak"
 on behalf of Cypherpunks? Nobody.
+
+#### [“Cypherpunks Write Code” as a Putdown](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/de80a36a97f69afe609c2710ee7692be53663ab4b4bc355f618c7a531870e509/)
+
+>I want to comment on this latest version of the "Cypherpunks write code"
+universal putdown.
+>
+>It's become common for debates on what is possible, what is likely, and
+what should be done for someone to "trump" the argument with the mantra of
+"Cypherpunks write code."
+>
+>In my posting on why I think Netscape and related operating environments
+represent the likeliest targets for widespread crypto use (the "big win" I
+used in my title), I did not whine that others ought to write code for me.
+I said that this is where users were going in massive numbers.
+>
+>Take it or leave it, as an analysis, but the "try writing some code" is a
+meaningless insult.
+>
+>The world is made up of bridge designers, legal experts, authors, chip
+designers, and on and on. Not just programmers.
+>
+>The line "Cypherpunks write code"--which is sometimes treated here with a
+reverence its origins do not support--was a reference to our view that
+technology, meaning actual deployment, was more important and interesting
+than yet more gabbing about liberty and privacy.
+>
+>And what is "writing code"? Is it only Perl and C? Or does defining what a
+remailer needs to do count as writing code? (Attendees at the first
+Cypherpunks meeting, almost 3 years ago, can confirm that I was the one who
+spend about two hours describing Chaum's mix work, and running the
+"remailer experiment"...we debated how a remailer could actually work, and
+Eric Hughes took on the task of writing the first one.)
+>
+>The "BlackNet" experiment I ran actually worked...the keys worked, the
+mechanisms worked, and the experiment has been used by many as an actual
+concrete illustration of how untraceable information markets will develop.
+An actual demonstration is worth more than mere speculation, and this was
+an actual demonstration. I call this "writing code," albeit not C code.
+>
+>(My actual code writing, in real computer languages, is oriented toward
+Mathematica, on my Mac, and Smalltalk Agents. Not all programming is
+oriented toward writing Unix tools, and I think the narrow interpretation
+of "Cypherpunks write code" to mean this is misleading.)
+>
+>In any case, even the ur-crypto hacker Zimmermann is writing very little
+actual code in PGP these days...does this mean he should "try writing some
+code" instead of doing what he apparently does best?
 
 ## Cryptoanarchy 
 
@@ -754,6 +815,39 @@ computerize. I suspect this is coming.)
 >I think nearly all new technologies have had uses some would not like. Gutenberg’s printing press was certainly not liked by the Catholic Church. Examples abound. But does this mean printing presses should be licensed or regulated?
 >
 >There have usually been some unsavory or worse uses of new technologies (what’s unsavory to, say, the U.S.S.R. may not be unsavory to Americans). Birth control information was banned in Ireland, Saudi Arabia, etc. Examples abound: weapons, fire, printing press, telephones, copier machines, computers, tape recorders.
+
+#### [RE: Netscape the Big Win](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/7ab4416eda9d66c24fc31136546e499592b3fa964b61a444621de46d49c8e972/)
+
+>Big programs tend to grow because they can increase market share by adding
+capabilities, by pulling in more customers. We might prefer a world of
+smaller apps, with componentware pieces, but it rarely happens.
+>
+>And I'm not going to use half a dozen small programs, each doing slightly
+different things and having different commands, when one will do nicely.
+
+#### [Re: Netscape the Big Win](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/192aacecf33c91147531eab2dd0ab4853e2979d794b8270e0678a73eef28194a/)
+
+>...technology is a moving target, plans have to change, and ease of
+use will likely win out over technical sophistication.
+
+#### [Re: Netscape the Big Win](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/1fb46ce1e09ac5be9fc7befd961de8fac6b571d843f9919f6e6da22e2d60bcad/)
+
+>The key is that folks--millions of them at last count--are voting with
+their feet that they want the ball of wax that is "The Web" (Netscape or
+Mosaic, HTML, HTTP, browsers, automated handling of images and sounds,
+integrated Newsreaders and mailers, etc.).
+>
+>They, the millions of users, demonstrably don't want to mess with Linux, or
+FreeBSD, or PGPelm, or even simple, straight text PGP (that is, PGP not
+integrated with mailers, just standalone). They want ease-of-use and a
+semantically simple model of how things work. (This is why I like Lisp
+Machines when I programmed them for Intel, and why I was an early adopter
+of the Macintosh, and why Windows has been doing so well...and why Netscape
+is doing spectacularly well.)
+>
+>This is not an "OS War" I'm taking sides in, just simple truth about what
+people are buying, using, clamoring for. It's important to our longer-range
+goals to recognize these important trends, like them or not.
 
 ## Tyranny 
 
