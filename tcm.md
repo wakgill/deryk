@@ -15,10 +15,6 @@ This <code>in-progress</code> book gathers for the first time the enigmatic cyph
 [ad] Your product ad can go here and reach tens of thousands of readers of this book. I only advertise products I like and use! <a href="https://wakgill.github.io/deryk/#contact">Email</a> me.
 </div>
 
-## Introduction
-
-I first became fascinated with the writing of Timothy C. May over beers after a talk I gave at Charles University in Prague. One of the students told me I might be interested in reading May's "Crypto-Anarchist Manifesto" and, after my prodding, began to explain the ideas like assassination markets and crypto anarchy.
-
 ## Anarchy
 
 #### [Voluntary Governments?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/fc01c984d43ada4687235051e6d69833ce302f3ba7531a53022c64a3285cd255/)
