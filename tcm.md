@@ -229,6 +229,16 @@ terms of the amount of crypto and cryptanalysis portrayed.
 stronger technology will inevitably win should pick up a copy of a
 15-year-old book called "The Soul of a New Machine," by Tracy Kidder.
 
+#### [BOOK: “Artificial Intelligence: A Modern Approach”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/35fe6eed38caf1fa52934fa6c597ee1f52f281f2a064bb7e1509d914c79b22fd/)
+
+>I've recently gotten a new book, "Artificial
+Intelligence: A Modern Approach," by Stuart Russell and Peter Norvig, 1995,
+Prentice-Hall, ISBN 0-13-103805-2.
+>
+>In 900 pages of well laid-out text, with excellent use of typography to
+make finding topics easy, it seems to be a great compendium of methods
+loosely called "AI."
+
 ## Censorship
 
 #### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
@@ -253,6 +263,19 @@ cases, and perhaps even the case of our own John Young--and as more child
 porn/celebrity nude/obscenity cases are filed....by the time the Thomases
 are both out of prison, most sites will likely be heavily editing
 themselves, imposing age limits, and using PICS ratings.)
+
+#### [Re: Sex & Crime TV filter](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/9a2d6226d4e9b982c65cc79fcf4d6d684148e88d5b6b05433759c8bdcc504e74/)
+
+>...to help derail this V-chip being mandated, what if we (I mean
+activists, writers of columns, etc.) "insisted" that _commercials_ be
+similarly labelled?
+>
+>"Yes, if violence and sex is to be "voluntarily rated," we think that
+commercial advertising ought to be similarly rated."
+>
+>It might be hard for the legislators to avoid the logic of this.
+Advertisers, fearing people would of course mute the commercials, would
+then quietly urge them to drop the whole idea.
 
 ## Constitution
 
@@ -388,6 +411,29 @@ code" instead of doing what he apparently does best?
 agreement that setting up a separate Intel box running Linux so one can
 create a suitable mail client is the preferred way to do secure e-mail.
 
+#### [Appropriate Topics?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/5043828d572923db945f12a19743d1b1e80bf4b74de0a61dbe174e5d24972d7a/)
+
+>It's a fact that highly-specialized or detailed posts about, say, crypto
+libraries, will not get as many general comments--in real life or on this
+list--as a reference to a current movie will get. That's the nature of
+things. I could go on about why this is so, but I think you all know why.
+>
+>The "Cypherpunks write code" mantra, sometimes cited by those who dislike
+the discussions they see, has a broader interpretation. To wit, instead of
+asking others to write the code you want to see, try writing it yourself.
+And this directly relates to postings: instead of asking for a different
+kind of post, one should just _write_ that kind of post!
+>
+>People will talk about what they want to talk about. If they get _too_ far
+off into themes only distantly related to the ostensible themes of this
+list, then usually some slight peer pressure will work. Plus, if people
+don't respond, the threads die.
+>
+>The noise messages of the form "This is not about writing code; this does
+not belong on Cypherpunks" are misguided. The list is made up of people who
+have crypto and privacy concerns broader than just writing C++ code for
+Sparcstations.
+
 ## Cryptoanarchy 
 
 #### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
@@ -496,6 +542,15 @@ day, etc. People can store key numbers with people they trust, perhaps
 encrypted with other keys, can leave them with their lawyers, etc. All
 sorts of arrangements can be made.
 
+#### [Re: Pat Robertson Fears E-cash?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/880a0084d51d42c284b79eebf9f7a1d7aee5990bba97414ec4dda57286234bf7/)
+
+>There is the "digital cash society" we fear as an Orwellian surveillance
+society, with all transactions recorded. 
+>
+>There is the "digital cash society" based on Chaumian schemes and
+untraceability, similar to a "hard cash" society without proofs of identity
+at every stage...
+
 ## Discrimination
 
 #### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
@@ -512,6 +567,15 @@ gov't. dispenses to its own troops, including methamphetamines, which it
 declares to be contraband in the civilian sector. (Pilots, for example,
 are given uppers to maintain alertness, but of course a truck driver
 caught with them faces jail.)
+
+## Escrow
+
+#### [Re: MS Money password problem](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/2ff48e790a7890f8c02b0c355d5fa22eef58a756303b909bf3d4c41b5d202870/)
+
+"Escrow" is sufficiently overloaded with real estate connotations that I
+wish the industry would adopt a different term. Carl Ellison's "GAK" is
+cute, but is hardly likely to ever be adopted widely. (No, I'm not calling for another round of suggested names, just opining
+that "key escrow" is a terrible name.)
 
 ## Forgery
 
@@ -556,6 +620,20 @@ the right to own nuclear weapons but ordinary citizen-units do not. This
 is indeed so, and I don't even necessarily think this is completely
 unreasonable...though I now am more inclined to support the right to keep
 and bear nukes.
+
+## Journalism
+
+#### [Re: PRZ Interview in Infobahn Magazine](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/387f280071001a65651e30f8c1caf72ac0847e8677478c43b28ac5684484ea2f/)
+
+>I'm not condemning those who do interviews--I did a few myself--but I think
+there' something to be said for avoiding the "personality profiles" which
+so superficially cover the issues. I about barfed to read the tale of "The Hooker and the
+Hacker" in the latest "Esquire," the one with Cindy Crawford on the cover.
+Then, just today, my younger brother told me he'd been reading about
+Mitnick and Shimomura in "Rolling Stone."
+>
+>Anyway, flame away with your claims that publicity is good, that the dozens
+of PRZ interviews are doing some good. I'm becoming more of a Zen Buddhist monastic skeptic on these issues every day. --Tim May, happy to be far from the madding crowd
 
 ## Keys
 
@@ -656,12 +734,68 @@ indicative of a major shift in the American system is this: "They" have certain 
 >
 >The ‘us’ is anyone not in a special group exempted from the ban…This makes for a dangerous society, civil liberties-wise, when industrial companies and shops have two classes of customers: them and us…We’re not talking about private ownership of nukes. We’re talking about a situation where a citizen can go to prison for having a knife longer than 3 inches in his pocket, while cops are free to have them for their own purposes. This stinks.
 
+## Movies
+
+#### [“The Net”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/cba792ec6a4984a6339d0c9c27a32b149975ff12a0b0acc77a38184be744a900/)
+
+>I saw "The Net" yesterday and was moderately entertained. Lots of leaps of
+logic, especially the notion that one can be "vanished" by having computer
+records changed--I can believe that such changes would screw things up, but
+surely even the character played by Sandra Bullock (nicely) would have
+human friends and associates to vouch for her.
+>
+>The portrayal of her job as a "beta tester," with a couple of Mac screens
+running and lots of MacTCP connections, was well done. In fact, maybe the
+most interesting look at computer screens I've seen. (But maybe I'm
+biased...)
+>
+>The cheesy climax, involving a computer virus, was especially egregious.
+But tension has to be gotten somehow, I suppose, and most moviegoers will
+not be terribly excited by the "real stuff." All in all, some good tension.
+>
+>If this was the film I advised a woman screenwriter/researcher about (the
+"vanishing" part she was asking me for tips on, 18 months ago), I sure
+couldn't seen any influence of my ideas, or those of Cypherpunks. (I have
+her name written down somewhere, but the two official screenwriters were
+both male...still, I have a hunch she was doing background research for
+them.)
+>
+>Ironically, I saw a second movie the same day..."Under Siege II." It had a
+lot of crypto, as well. Things like "Going secure" on cellphone
+conversations with the Arabs purchasing the terrorist actions.
+
 
 ## Nationalism
 
 #### [A 4000-Cray Machine at NSA in 1997?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/07/3a5884bd4aee0f16ea368bf15fcd5550c7ea4a76cd921fbbab922fd6fdb8c7a7/)
 
 >National borders are just speed bumps on the information superhighway.
+
+## PGP
+
+#### [Attacks on PGP](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/0cf3cd693f09fda16d36e95936aaa82bb48ed269e457e8af3a190d872004e572/)
+
+>I don't believe MIT is in collusion with the NSA or any other government
+agency to deliberately weaken or cripple PGP. I base this on having dealt
+with some of the MIT folks, with the various source code analyses folks
+have done, etc.
+>
+>However, I think it's a perfectly *fine* idea for some group to launch a
+cryptanalytic attack on PGP, or an attack based on any other approaches.
+This is the "tiger team," or "Team B" approach to finding flaws and
+weaknesses.
+>
+>I don't take the security of PGP only on faith, though analyzing it is not
+my bag, as they say. Rather, I use the Popper/Bartley notions of
+falsifiabilty and see truth as a process, not a state. Seeing lots of
+source code available, independent compilations on various machines, and
+believing neither Zimmermann nor Atkins nor Schiller, etc., would consent
+to inserting back doors into PGP, I am thus led to _believe_ that PGP is
+probably not so affected. Doesn't mean it isn't so, but I'm not overly
+worried about it.
+>
+>Still, more studies and technical attacks (technical, not verbal) would be
+welcome.
 
 ## Police
 
@@ -726,6 +860,38 @@ button....just type in some key words, for the topics, and it does the
 rest.
 >
 >An interesting project, actually.
+
+## Religion
+
+#### [Re: NYET–attempted formal specs (again)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/2b54ef73d50a54fd4ed2aee5205cd143aee508ccb603584604291c65f0c7d133/)
+
+>I happen to be a Nonbeliever--Allah forfend!--but I have no problems with
+their beliefs.
+>
+>In fact, most religious groups are distrustful of "The Gubment" deciding
+what's reasonable and what's not.
+>
+>The thing to do is to get the Mormons, the Baptists, the Muslims, the
+Rosicrucians, the Davidians (those who survived the BATF action), and the
+Breatharians, etc., to all agree that they need to "screen the evil out" on
+_their_ side, not to get "The Gubment" to do it for them.
+>
+>Orrin Hatch, a Mormon, has said that he grew up in Pennsylvania, and he
+chafed under having to say the school prayers of the Dominant Religious
+Paradigm. He has said that this makes him skeptical and critical of any
+efforts to institute religion in classrooms.
+>
+>I don't see any religion in America as being sufficiently dominant that it
+thinks it can get its particular agenda accepted as the Dominant Religious
+Paradigm. That is, they all seem suspicious of government involvement. All to the good.
+>
+>Thus, while not a Christian or even any kind of theist, I find much, much
+less to fear from religious groups in the U.S. than I do from various
+non-religious groups.
+>
+>(Of course, if the Third Episcopal Transcendentalists succeed in taking
+power, and begin "purifications" through crucifiction of non-Episcopals, I
+may modify my charitable opinions...)
 
 ## Remailers
 
