@@ -7,13 +7,15 @@ layout: default
 
 <h1 class="name glitch" data-text="Makgill">Wakgill</h1>
 
-This is the website of Deryk Makgill. I am best known for work on the economics & history Bitcoin, and in the past for my work against credentialism, but I'm also interested in science fiction and digital privacy. There's nothing special in "wakgill." A 'w' is an inverted 'm' and it makes for an easier guarantee that I get a common username across the few services I use.
-
-
 <p></p>
 <img style="max-width:100px;" src="/deryk/assets/img/makgill-censored.jpg" alt="Deryk Makgill" title="Deryk Makgill">
 <img style="max-width:100px;" src="/deryk/assets/img/deryk-censored.png" alt="Deryk Makgill" title="Deryk Makgill">
 <img style="max-width:100px;" src="/deryk/assets/img/ecuador-censored.png" alt="Deryk Makgill" title="Deryk Makgill">
+
+This is the website of Deryk Makgill. I am best known for work on the economics & history Bitcoin, and in the past for my work against credentialism, but I'm also interested in science fiction and digital privacy. There's nothing special in "wakgill." A 'w' is an inverted 'm' and it makes for an easier guarantee that I get a common username across the few services I use.
+
+
+
 
 
 <!---<img style="max-width:266px;" src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">--->
