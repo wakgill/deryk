@@ -657,6 +657,16 @@ rest.
 >
 >An interesting project, actually.
 
+## Remailers
+
+#### [Data Havens and Intellectual Property](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/2719da316f3f19465fb1a3ada09342fcfcf6227f0d2034e13950014f8649752e/)
+
+>...machines on the Net are getting much, much
+cheaper, which will make "Mom and Pop remailers" much more common.
+>
+>Importantly, these remailers will be common--someday, if not this year--in
+non-U.S. jurisdictions.
+
 ## Repudiation
 
 #### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765)
