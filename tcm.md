@@ -131,6 +131,12 @@ gas, Ebola being developed in weapons labs, and on and on.
 >I'm glad I live far away from safe targets and have accumulated enough
 supplies to "hunker" down for a long time.
 
+#### [Military Prisons for Citizen-Units](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/e734b48734ef935de8fe5004833551fa71de42fcb66749834b982d1bc2dae49a/)
+
+>The military _did_ put me in one of their hidden military prisons, but
+decided I would be more useful on the Cypherpunks list. I recognize several
+other names here from my work brigade. --Citizen-Unit Tim "The Zek" May
+
 ## Bitcoin
 
 #### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
@@ -375,6 +381,12 @@ code" instead of doing what he apparently does best?
 #### [Thirty Years of Crypto Anarchy](https://youtu.be/TdmpAy1hI8g?t=1436)
 
 >The group that later became the cypherpunks, Eric [Hughes'] girlfriend at the time had a funny comment and she wrote an article on our group. She said at one point that ‘you guys are just a bunch of cypherpunks,’ which was a pun on cyberpunk. So we used the name. A couple people were highly critical of this. They wanted a solid sounding name like the Institute for Cryptographic Research or the Foundational Cryptography Group but alot of us liked the name 'cypherpunk.'
+
+#### [“Only on the Cypherpunks list…”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/2f17a8d92ff84c3f0426c92047606ed9e301db724fff1aa26203e4cfd7554560/)
+
+>...only on the Cypherpunks list would you be likely to find general
+agreement that setting up a separate Intel box running Linux so one can
+create a suitable mail client is the preferred way to do secure e-mail.
 
 ## Cryptoanarchy 
 
