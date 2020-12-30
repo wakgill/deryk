@@ -372,6 +372,10 @@ of "Cypherpunks write code" to mean this is misleading.)
 actual code in PGP these days...does this mean he should "try writing some
 code" instead of doing what he apparently does best?
 
+#### [Thirty Years of Crypto Anarchy](https://youtu.be/TdmpAy1hI8g?t=1436)
+
+>The group that later became the cypherpunks, Eric [Hughes'] girlfriend at the time had a funny comment and she wrote an article on our group. She said at one point that ‘you guys are just a bunch of cypherpunks,’ which was a pun on cyberpunk. So we used the name. A couple people were highly critical of this. They wanted a solid sounding name like the Institute for Cryptographic Research or the Foundational Cryptography Group but alot of us liked the name 'cypherpunk.'
+
 ## Cryptoanarchy 
 
 #### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
