@@ -307,6 +307,17 @@ line," the way we work on these issues is through discussion.
 
 >A moderation scheme almost always bogs down into debates about the moderation criteria, the acceptability of certain posts, and so on. Now we see another effect: multiple lists and a confusing array of cross-posts, mail-to-News gateways, News-to-mail gateways, etc. The "Cypherpunks Way" is to encourage and empower people to filter their own stuff, or to hire outside contractors to do it for them. Failing that, to let them twist slowly in the wind. "Think of it as evolution in action.” The Cypherpunks Way is also the simplest system.
 
+#### [Re: Fight, or Roll Over?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/10ed738f43e28b23205f62a1d537bf30d73d4c1fcf33aed83e0427bd82c18ee1/)
+
+>Cypherpunks is a worldwide, technological-oriented group. We can do
+more by spreading technology and undermining repressive legislation than we
+can by being just another ineffectual lobbying group.
+
+#### [Re: Fight, or Roll Over?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/10ed738f43e28b23205f62a1d537bf30d73d4c1fcf33aed83e0427bd82c18ee1/)
+
+>...who could claim to "speak"
+on behalf of Cypherpunks? Nobody.
+
 ## Cryptoanarchy 
 
 #### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
@@ -515,7 +526,48 @@ indictment against a ham sandwich if I wanted one.")
 you'll be OK," even though the laws are usually quite clear that this is
 felony concealment. The law is an ass.
 
-## Liberty
+#### [Crisis Overload (re Electronic Racketeering)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/ed8fe69b2a1a4a75244e7335b987676f2069a10d07005cb5b9e022c9add5b2f0/)
+
+>I think it's time to abandon all lobbying efforts...they don't appear to be
+working, and the government is proliferating new laws faster than we can
+fight them. The only hope is to more rapidly deploy crypto, to reach the "point of no
+return."
+
+#### [Crisis Overload (re Electronic Racketeering)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/ed8fe69b2a1a4a75244e7335b987676f2069a10d07005cb5b9e022c9add5b2f0/)
+
+>Every couple of months there's been a new legislative attack on what were
+once basic American freedoms. (Sorry to focus on America. I'm sure you
+folks in the liberty-loving paradises of, say, Germany, are gloating over
+our hand-wringing.)
+>
+>We're losing the war. We can send in donations to the NRA and EFF, offer
+our support to the ACLU and EPIC, but the tide just keeps rolling in,
+washing away our efforts. The full-time lawmakers in D.C. can proliferate
+new repressive laws much faster than we can fight them.
+
+#### [Crisis Overload (re Electronic Racketeering)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/ed8fe69b2a1a4a75244e7335b987676f2069a10d07005cb5b9e022c9add5b2f0/)
+
+>Ordinary lobbying is probably a lost cause. The EFF tried to "work with"
+the government (Administration, Congress) on the Digital Telephony Bill,
+and got rolled (in the opinion of many, even in the governing circles of
+EFF).
+
+#### [Re: Fight, or Roll Over?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/7e68912e2859655389e7fdc05956920d3a984f8e415addac4e896d7520a0f630/)
+
+>This is all I'm suggesting, that yet another round of trying to persuade
+Congress people is a waste, and that the _traditional_ focus on technology
+is a better use of our time and effort.
+
+#### [Re: Fight, or Roll Over?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/7e68912e2859655389e7fdc05956920d3a984f8e415addac4e896d7520a0f630/)
+
+>...Washington can spin out legislation faster than we can respond....they are,
+after all, using our tax dollars to generate new laws, and have
+intelligence agencies and law enforcement agencies on their side with
+armies of lawyers and lobbyists to help. Multi-billion dollar budgets are
+also at stake.
+
+
+## Liberty 
 
 #### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
 
@@ -578,6 +630,11 @@ criminals, but they have surely all richly earned whatever befalls them.)
 #### [It ain’t just crypto they’re screwing with…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/06/381c08c9d253e0f26e5331a6859b185585900117a311d775e9deb54316e9fc75/)
 
 >…the knife laws in California…[make] me want to climb a tall tower and start shooting. (I won't, of course, but I am confirmed in my view that the politicians in Sacramento and D.C. ought to be disposed of as quickly as possible. Hang the bastards.)
+
+#### [Automated Rant Generators and Letter Generators](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/07/7e3018c01e375601631c9c695219f6e7232a1f075fa895023d101558a4b34acd/)
+
+>...make your letters to Congressmen look like ransom notes...it really
+gets their attention!
 
 ## Repudiation
 
