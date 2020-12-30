@@ -441,7 +441,7 @@ for such a curfew needs to be hog-tied, covered with tar, then torched.
 be, and I don't need the State's permission for them to be out. I would
 think anyone with an iota of libertarian sentiment would understand this.
 
-#### #### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
+#### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
 
 >I may sound harsh here, but "curfew" means one and only one thing to me:
 somebody restricting my freedom of those of my children to be a public
