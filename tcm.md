@@ -680,10 +680,26 @@ caught with them faces jail.)
 
 #### [Re: MS Money password problem](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/2ff48e790a7890f8c02b0c355d5fa22eef58a756303b909bf3d4c41b5d202870/)
 
-"Escrow" is sufficiently overloaded with real estate connotations that I
+>"Escrow" is sufficiently overloaded with real estate connotations that I
 wish the industry would adopt a different term. Carl Ellison's "GAK" is
 cute, but is hardly likely to ever be adopted widely. (No, I'm not calling for another round of suggested names, just opining
 that "key escrow" is a terrible name.)
+
+#### [Escrow Services](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4d858679f4c14a87f4bfed0a4ce213f6d96c5cb7cf85d881ff5c1b33a8fb46ed/)
+
+>How does an escrow service (and I mean the classical definition of escrow,
+not the newspeak definition used by the U.S. government) survive and
+prosper?
+>
+>By being in the business of releasing funds when conditions are met, and
+not otherwise. By not absconding with the funds.
+>
+>Note that in the real world, escrow services do quite well, because the
+continuing future revenue stream from their good reputation exceeds what
+they could get by "burning" any particular customer. (Sometimes by putting
+up a bond, which is a kind of secondary escrow. Also, escrow services can
+be "pinged" (tested) by lots of small transactions. (A lot of similarities
+between digital escrow services and digital banks.)
 
 ## Forgery
 
@@ -879,6 +895,14 @@ conversations with the Arabs purchasing the terrorist actions.
 
 >National borders are just speed bumps on the information superhighway.
 
+## NSA
+
+#### [The Lotus Position](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/01/88594b9934f2a56394c048e221e97a4aa6a0b712f2d1f312121f956a9f4f4ee9/)
+
+>I take it as self-evidently true that NSA would spend the relatively small
+amount of money to build a dedicated key cracker...probably at least
+several for each major cipher.
+
 ## PGP
 
 #### [Attacks on PGP](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/0cf3cd693f09fda16d36e95936aaa82bb48ed269e457e8af3a190d872004e572/)
@@ -905,13 +929,14 @@ worried about it.
 >Still, more studies and technical attacks (technical, not verbal) would be
 welcome.
 
-## NSA
+#### [VCRS and Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/63fc4d81f1b1757783d23599c17a67e09a0404d6e77590e9ddad5121be7abffc/)
 
-#### [The Lotus Position](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/01/88594b9934f2a56394c048e221e97a4aa6a0b712f2d1f312121f956a9f4f4ee9/)
-
->I take it as self-evidently true that NSA would spend the relatively small
-amount of money to build a dedicated key cracker...probably at least
-several for each major cipher.
+>As I have argued many times, this was really the Big Win for PGP, that it
+did not use an odd or proprietary format that was platform-specific. Such
+basic ASCII operation ensures interoperability, and is of course
+inconsistent with the government talk of making sure that key-escrow
+products cannot interoperate with non-key-escrow or "alternately"-escrowed
+products.
 
 ## Police
 
@@ -1043,6 +1068,45 @@ of this: untraceable cash means, for most transactions of interest with
 digital cash, that once the crypto stuff has been handled, whether the sig
 was stolen or not is moot, because the money is gone...no court can rule
 that the sig was invalid and then retrieve the cash!
+
+## School
+
+#### [Re: Public Schools](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4306a35b076a0452e1f8738e7303dfdbbcad6f9d17507fbb3be9f3debce64807/)
+
+>I took some of my science classes at Jefferson. Yes, shocking as it may seem, I AM A PRODUCT OF PUBLIC SCHOOLS. Help me before it's too late.
+>
+>(Seriously, my view is that schools are not very important. All success,
+academic or technical, derives from one basic determining factor: those who
+read for pleasure, succeed, and those who don't read for pleasure, don't.
+The young child who reads will usually keep reading, whether novels,
+encyclopedias, lists like this, etc. The child who is not into reading will
+likely never get into it later in life. Which is OK, as there is a serious
+shortage of tradesmen, at least in my area, and more kids ought to be
+taught usable trades. Seriously. Our "ideal" that all children should
+attend college is absurd, given the lack of academic preparation, desire,
+and reading skills that so many high school students lack. Most community
+colleges are essentially becoming Grades 13-14, with most of the Grade
+13-14 students reading at the 9th-grade level (which most of us on this
+list were reading at when we were in the 7th-grade, or earlier).)
+
+#### [Workers, Public Schools, Tradesmen, and Justice](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/a3eb3520fe216f7d3b7de37247c88875a12f6bda62be685e6f62b254394ffea2/)
+
+>More students should, fairly early on, be "flunked out" of courses in the
+"academic/professional track" and moved into _trades_. For example, the way
+many European countries have outstanding vocational/trade schools. The
+usual trades: machinists, woodworkers, auto mechanics, technicians of all
+sorts, and so on. Few of these trades need, or even benefit from, courses
+in history, mathematics (beyond simple algebra and a tad of geometry, not
+the really neat stuff about proving Euclid's theorems in novel ways, the
+things people like me excelled in, but which left many other students
+shaking their heads and barely passing the class), etc. Most of the
+academic subjects in high school are neither needed nor remembered.
+>
+>(And I reject any of the common arguments that Americans need to learn
+history, the Constitution, etc. Few of them remember a single word they
+learned, and one might as well teach the basics in earlier grades and
+dispense with meaningless lectures about how and when the Senate may invoke
+cloture, how the Foreign Powers Act modified the 1877 Trade Act, and so on.)
 
 ## Taxation
 
