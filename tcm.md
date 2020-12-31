@@ -952,6 +952,11 @@ software--of _really_ deleting the back messages once a customer downloads
 them to his site. This means that _backups_ must be done in a careful
 manner, such that even the backup tapes or disks are affected by a removal.
 
+#### [Re: Creative Wiretap Arguments Was :Re: Put up or shut up](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/d341cb08dbdd1542405ae8c4415e5f36168d17d1a7dd37e1d995359ab42403af/)
+
+>The issue of ISPs falling under the DTA or not is, I think, a battleground
+that is coming.
+
 ## Justice
 
 #### [Re: active practice in America](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4654feaba1c756986dbb56ceb4e749fa8460ce3d9d3fcc34c26ea4d8fa51f0a0/)
