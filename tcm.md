@@ -348,6 +348,23 @@ large."
 >I think Ronald Dworkin's new book on law has discussions of this "right to
 privacy" issue. I plan to read it soon.
 
+## Campaign Finance
+
+#### [Re: Stopping the buying of candidates](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/2d200db99b60636f10bbaef7fd19c8913d62874654d2e01f957051e3e6f86058/)
+
+>...there are "serious First Amendment problems" with "full
+disclosure." Or with the closely-related campaign spending limits.
+>
+>If we support anonymous leafletting, anonymous speech, and just about
+anonymous _anything_, why should we accept that the State can compell who
+spent money in support of a candidate?
+>
+>Our political system is already in thrall to various special interests;
+this is the nature of our overly-democratic system. So be it. Let the
+highest bidder buy the government he can.
+
+
+
 ## Censorship
 
 #### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
