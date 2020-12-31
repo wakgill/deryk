@@ -426,6 +426,25 @@ prepared.
 >
 >Meanwhile, deploy as much crypto stuff as possible.
 
+#### [Re: The Right to Keep and Bear Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/05948bb038f4f2e8860a196bd065f2120ca595a94656b3cd266a5c0d9f6492f9/)
+
+>I've argued since 1992 on Usenet and here that "crypto as arms" is a
+potentially dangerous tack to follow. (Others, including legal experts,
+have also argued this point.)
+>
+>Given that it is well-established, whether we agree or not, that the USG
+may restrict private ownership of atom bombs, nerve gases, CBW weapons,
+machine guns, switchblade knives, nunchuk sticks, and various other "arms,"
+the association of crypto with armaments is potentially *DISASTROUS*.
+>
+>A far better strategy is to associate crypto with *speech*, which most
+people seem to think has stronger protection. And, truth be told, I view
+encrypted communications as a helluva lot more like a form of communication
+than I view it as a cousin to my Heckler & Koch .45 USP.
+>
+>In my view, equating crypto with armaments is exactly what the USG would
+like to see happen. This legitimizes their control of crypto.
+
 ## Curfew
 
 #### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
@@ -460,6 +479,12 @@ other people's children. Providing no crimes are being committed, curfews
 for the sake of controlling the behavior of children are no more just than
 would be a bunch of related behavior control laws, e.g., a ban on comic
 books, a mandate that all children join after-school youth leagues, etc.
+
+#### [Very brief comments on LDS/Mormons](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/89fc47358582289ca2150afbb2efc393728664c260210204c86d46ce9c497df9/)
+
+>Telling
+people when they can be on public streets and when they cannot is no
+different than telling them what they can read and what they cannot.
 
 ## Cypherpunks
 
@@ -892,6 +917,10 @@ of PRZ interviews are doing some good. I'm becoming more of a Zen Buddhist monas
  
 >Only one response to the key grabbers is warranted: "Death to Tyrants!"
 
+#### [“Macintosh – the Surveillance System for the Rest of Us](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/68ed9107bbcb07971aa05de39a021c6bbc4a0a5bccf5d08027ff121b30e49bee/)
+
+>GAK, or Girlfriend's Access to Keys, is indeed a very scary thing.
+
 ## Law
 
 #### [SAFE Bill is a Disaster–“Use a cipher, go to prison”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/be751b2cf978e0c363b0101d3355ed622eee5130bd22cc7b2224c887497563cf/)
@@ -997,6 +1026,20 @@ keeping _their own_ children indoors after 7, or 5, or whatever their Holy
 Hour or Curfew Hour is, but no fucking religious nuts are going to tell
 _me_ when _my_ children must be indoors. 
 
+#### [Very brief comments on LDS/Mormons](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/89fc47358582289ca2150afbb2efc393728664c260210204c86d46ce9c497df9/)
+
+>Personally, I find Mormonism to be a good "survival meme."
+Self-preparedness, food storage, self-reliance, etc., are all counter to
+the "I'll just let government take care of me" meme which is so common in
+the rest of society. I don't cotton to supernatural explanations of the
+world, though, so I've never been in involved in any religion (past age 11).
+>
+>This is the last thing I'll say on Mormonism. Whether some subset of
+settlers committed some set of crimes in Mountain Meadows is a footnote in
+history--who really cares about such anomalies? I care more about the
+present.
+
+
 ## Movies
 
 #### [“The Net”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/cba792ec6a4984a6339d0c9c27a32b149975ff12a0b0acc77a38184be744a900/)
@@ -1094,6 +1137,14 @@ inconsistent with the government talk of making sure that key-escrow
 products cannot interoperate with non-key-escrow or "alternately"-escrowed
 products.
 
+## Personal
+
+#### [Re: “Macintosh – the Surveillance System for the Rest of Us](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/de172752be2ccdc9f4c214f629280da9a7737227417ee26f920d40c38b574a70/)
+
+>Fuck off, to be blunt. You've got to learn to start making actual points,
+and not trying to show your writing chops from the Hunter S. Thompson
+Correspondence School of Creative Writing. Fuck off. Back into my killfile you go.
+
 ## Police
 
 #### [Rules for “Them” and Rules for “Us”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/07/cf9134770f50254a35e5c6d26d7cfe7c315dc681e7227fd1b7f274e626e9d18d/)
@@ -1189,6 +1240,19 @@ non-religious groups.
 >(Of course, if the Third Episcopal Transcendentalists succeed in taking
 power, and begin "purifications" through crucifiction of non-Episcopals, I
 may modify my charitable opinions...)
+
+#### [Very brief comments on LDS/Mormons](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/89fc47358582289ca2150afbb2efc393728664c260210204c86d46ce9c497df9/)
+
+>Personally, I think cults are useful in keeping people off the streets
+(better than police-enforced curfews). 
+
+#### [Re: Very brief comments on LDS/Mormons](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/a038c3ea845750ddc9548a6d4504b1a9510d26edc464039968121086d9b22b4f/)
+
+>As to Moroni's objection to my characterization of LDS/Mormonism as a
+"cult," I refer to _all_ religions this way. Catholocism, Judaism,
+Protestantism, Mormonism, Buddhism, they are all roughly the same to me. If
+you are offended, this is your problem. I take no position on which of
+these belief systems are valid and which are not.
 
 ## Remailers
 
