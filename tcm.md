@@ -1258,6 +1258,39 @@ rest.
 >
 >An interesting project, actually.
 
+## Privacy
+
+#### [Re: “Drift net fishing,” GAK, FBI, and NSA](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/fe43b45e3dc5c75936dda4bd1d0a22940566de13a22454e0d12fee2e8dcae830/)
+
+>A couple of people on this list talked about a "Privacy
+Card," with the explicit policy of not reporting transactions in detail to
+the Big Three (the government-friendly TRW Credit, Equifax, and Transunion).
+>
+>The idea being that if a "market for privacy" exists, someone ought to be
+able to make a nice piece of change offering a card that protects privacy.
+>
+>One problem is that many people _want_ credit card transactions reported to
+>the Big Three, to build up their credit record.
+
+>(But many don't care. I've been using a VISA card issued by my stock broker
+for 12 years now. It's a "debit card," though it's handled by a merchant
+exactly as a credit card, and they probably can't see any difference. What
+I gathered when buying my current house, is that none of these transactions
+were part of my "credit history," as I was actually using a debit card. All
+of those now using, or planning to use, a debit card would be ideal
+candidates for a "Privacy Card.")
+>
+>Such a deal would have to be one of Visa, MasterCard, or Discover, with
+American Express a distant fourth. (I don't even know if these
+companies/tradenames would even allow such a thing, of course.) The cost of
+rolling out a brand new type of card would of course be prohibitively high.
+>
+>(I have no expectation than this will be done, and I think I said so at the
+time. Ever the realist, in some ways,  I knew no one would take on such a
+complex project. Just as no one followed through with the "Cypherpunks
+Credit Union" idea, discussed at several meetings in 1993.)
+
+
 ## Religion
 
 #### [Re: NYET–attempted formal specs (again)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/2b54ef73d50a54fd4ed2aee5205cd143aee508ccb603584604291c65f0c7d133/)
@@ -1502,6 +1535,25 @@ is doing spectacularly well.)
 >This is not an "OS War" I'm taking sides in, just simple truth about what
 people are buying, using, clamoring for. It's important to our longer-range
 goals to recognize these important trends, like them or not.
+
+## Tracing
+
+#### [“Drift net fishing,” GAK, FBI, and NSA](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/388f05ece3a2ebd901d3776ac6a9b666c675c5ae4ddfdf671f936c4fcd642c5d/)
+
+>A note on _contact analysis_. One thing the FBI probably wants badly are
+databases of who has travelled where, and when, for correlation analysis.
+Note that the crackdown on "valid IDs" for travel, for airlines, helps in
+this regard. I would not be surprised to learn that the airline databases
+are routinely fed to the Feds, so to speak. (Possibly via the FAA, acting
+as a kind of cutout.) Were I the head of the FBI, this is what I would
+want.
+>
+>The next step will be collecting hotel reservation databases. (Unlike the
+case with the FAA and the airlines, I don't know what kind of authority
+would grant them access to private hotel databases, but I expect they are
+working to find such authority somewhere. Maybe the infinitely malleable
+"regulation of commerce" clause, even if hotel stays are canonically _not_
+interstate trade!)
 
 ## Tyranny 
 
