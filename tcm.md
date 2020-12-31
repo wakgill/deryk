@@ -413,6 +413,35 @@ driver's license, like I said. In other areas, why?
 >This gets to a core issue: the incredible benefits of locally clearing a
 transaction. Caveat emptor, buyer beware, etc. Cash on the barrelhead.
 
+#### [Cash, cheaters, and anonymity](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/08/6e7fdd5762cb3100363962b5602e4cb0ad2d9717de2293ad5db67eeabac5d765/)
+
+>Neither Chaum nor Finney nor myself have ever (that I recall) called for a
+government-mandated system of _identities_. The whole point of "blinded
+credentials" is so that "selective disclosure of information" can occur.
+>
+>The canonical example is an "age credential" for entry into bars, for
+example, or for rental of adult videos, as another example. (The present
+system--simply _looking_ at a person to confirm that they "look old
+enough"--works pretty well for most adults, with only those in the margin
+zone being "carded." Even with "carding," a bar owner only checks the age
+field, and the photo field of course, to verify age. Chaum's concerns when
+he wrote his "systems to foil Big Brother" papers in the mid-80s were that
+fully-computerized versions of these credentials would present substantial
+threats to privacy. Rather than just looking at an age credential, and then
+forgetting the data seen, computers and surveillance systems would
+_remember_ all presentations of credentials, allowing extensive
+construction of dossiers on movements, purchases, habits, etc.).
+
+#### [Re: Blinded Identities](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/6c2374308a87688b63c4fd54b9ca772c5b710cc443ceef0937314f819b2e6b4a/)
+
+>In the real world, there are few businesses that want extensive
+credentials. The most important credential to them is _cash_, which is an
+interesting form of "blinded credential" (if you think about it). Namely,
+cash is "proof of ability to pay without any other credentials." Paying by
+check (a promise that one's bank will make good) or by asking for a
+purchase to be put on a "tab" (for later payment), are both situations
+where a merchant might demand various forms of credentials.
+
 ## Crime
 
 #### [Re: “Confessing to a felony”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/3417afa60751c062e471ba10c8eb2af788244feced7db45c1da5eb03176dc12a/)
@@ -1269,41 +1298,6 @@ to redecide the same issue. Boy, was I wrong.
 obviously guilty black defendant....and yet I don't hear calls for a
 _second_ criminal trial.
 
-## PGP
-
-#### [Attacks on PGP](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/0cf3cd693f09fda16d36e95936aaa82bb48ed269e457e8af3a190d872004e572/)
-
->I don't believe MIT is in collusion with the NSA or any other government
-agency to deliberately weaken or cripple PGP. I base this on having dealt
-with some of the MIT folks, with the various source code analyses folks
-have done, etc.
->
->However, I think it's a perfectly *fine* idea for some group to launch a
-cryptanalytic attack on PGP, or an attack based on any other approaches.
-This is the "tiger team," or "Team B" approach to finding flaws and
-weaknesses.
->
->I don't take the security of PGP only on faith, though analyzing it is not
-my bag, as they say. Rather, I use the Popper/Bartley notions of
-falsifiabilty and see truth as a process, not a state. Seeing lots of
-source code available, independent compilations on various machines, and
-believing neither Zimmermann nor Atkins nor Schiller, etc., would consent
-to inserting back doors into PGP, I am thus led to _believe_ that PGP is
-probably not so affected. Doesn't mean it isn't so, but I'm not overly
-worried about it.
->
->Still, more studies and technical attacks (technical, not verbal) would be
-welcome.
-
-#### [VCRS and Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/63fc4d81f1b1757783d23599c17a67e09a0404d6e77590e9ddad5121be7abffc/)
-
->As I have argued many times, this was really the Big Win for PGP, that it
-did not use an odd or proprietary format that was platform-specific. Such
-basic ASCII operation ensures interoperability, and is of course
-inconsistent with the government talk of making sure that key-escrow
-products cannot interoperate with non-key-escrow or "alternately"-escrowed
-products.
-
 ## Personal
 
 #### [Re: “Macintosh – the Surveillance System for the Rest of Us](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/de172752be2ccdc9f4c214f629280da9a7737227417ee26f920d40c38b574a70/)
@@ -1382,6 +1376,59 @@ violate a specific law, absent any actual murders, etc.)
 >So, I'll "put up or shut up" by continuing my present path. I reject the
 idea that one must lay on the tracks as a sacrifice of one's self to the
 Cause. Usually it's better to suvive and continue fighting in other ways.
+
+#### [Re: extortion via digital cash](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/ae8b838a9127b580993b4f3bf54b60c3a06f3e41a169ef5b32b89cb38e5eadcf/)
+
+>I've received a couple of notes from people suggesting basically that
+I should "stop participating and "just make nice"" with Vulis. Such
+cluelessness about what is actually being said, and the use of
+Kindergarten-level phrases like "just make nice," shows that some people
+have no sense of reality and have no concept of who is to blame and who is
+not to blame. "Why can't the Jews and the Arabs just make nice?
+
+## PGP
+
+#### [Attacks on PGP](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/0cf3cd693f09fda16d36e95936aaa82bb48ed269e457e8af3a190d872004e572/)
+
+>I don't believe MIT is in collusion with the NSA or any other government
+agency to deliberately weaken or cripple PGP. I base this on having dealt
+with some of the MIT folks, with the various source code analyses folks
+have done, etc.
+>
+>However, I think it's a perfectly *fine* idea for some group to launch a
+cryptanalytic attack on PGP, or an attack based on any other approaches.
+This is the "tiger team," or "Team B" approach to finding flaws and
+weaknesses.
+>
+>I don't take the security of PGP only on faith, though analyzing it is not
+my bag, as they say. Rather, I use the Popper/Bartley notions of
+falsifiabilty and see truth as a process, not a state. Seeing lots of
+source code available, independent compilations on various machines, and
+believing neither Zimmermann nor Atkins nor Schiller, etc., would consent
+to inserting back doors into PGP, I am thus led to _believe_ that PGP is
+probably not so affected. Doesn't mean it isn't so, but I'm not overly
+worried about it.
+>
+>Still, more studies and technical attacks (technical, not verbal) would be
+welcome.
+
+#### [VCRS and Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/63fc4d81f1b1757783d23599c17a67e09a0404d6e77590e9ddad5121be7abffc/)
+
+>As I have argued many times, this was really the Big Win for PGP, that it
+did not use an odd or proprietary format that was platform-specific. Such
+basic ASCII operation ensures interoperability, and is of course
+inconsistent with the government talk of making sure that key-escrow
+products cannot interoperate with non-key-escrow or "alternately"-escrowed
+products.
+
+#### [Re: Royalties](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/ec87da76c2ce0404dfca190792f178e1d51cf3780ce498aa90e66380e3bc4b68/)
+
+>It seems a bit strange that PGP Inc. is so fastidious about enforcing
+intellectual property claims, given the treatment of RSA Data Security
+Inc.'s similar property claims a few years ago.
+>
+>In other words, I don't worry for one nanosecond about "infringing" on PGP
+Inc.'s claimed property rights. Nothing personal.
 
 ## Police
 
@@ -1805,6 +1852,68 @@ would grant them access to private hotel databases, but I expect they are
 working to find such authority somewhere. Maybe the infinitely malleable
 "regulation of commerce" clause, even if hotel stays are canonically _not_
 interstate trade!)
+
+#### [“Stopping Crime” Necessarily Means Invasiveness](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/e91570a494b39c75134ba0e479ebbb299ce4054602bec88a5aa922b15aaa98f0/)
+
+>There are several swirling threads about the development of crypto systems
+(e.g., "binding cryptography," "key recovery," "one-way traceable e-cash")
+that are designed to allow law enforcement some ability to track illegal
+transactions, catch some criminals, etc.
+>
+>Lucky Green and I had a brief discussion of this at my party last Saturday.
+Specifically, about the reasons some folks are avoiding "true" digital
+cash, as described in Chaum's papers of the mid-80s, in favor of "crippled"
+digital cash. We both agree that _any_ system which allows government to
+act to trace a transaction, or to trace a message, or to gain access to
+keys, essentially throws away the liberty-enhancing advantages of
+cryptography completely.
+>
+>That this is so, logically, is almost completely self-evident. If this is
+not, ask yourself whether the government of Myanmar, known as SLORC, would
+not use its "Government Access to Keys" to round up the dissidents in the
+jungle. Would Hitler and Himmler have used "key recovery" to determine who
+the Jews were communicating with so they could all be rounded up and
+killed? Would the East German Staasi have traced e-cash transations? For
+every government extant on the planet, even apparently benign government
+such as that in the Vatican, one can easily think of dozens of examples
+where access to keys, access to diaries, access to spending records, etc.,
+would be exploited. 
+>
+>Any proposal to force traceability of transactions must deal with this
+reality. What the government considers "criminal" or "suspicious" is often
+what they consider threatening to their exercise of power, or even of their
+particular time in power (e.g., the Democrats and their 900 FBI files
+circulating throughout the White House, looking for dirt on their
+"enemies," the Republicans. Do you really want Craig Livingstone having
+GAK?).
+>
+>The recent talk about "catching criminals" misses this point, that
+governments typically use surveillance powers to control citizens. (Note: I
+would think Dutch residents should be especially sensitive to this concern,
+given what happened to them in WW II, when the arriving Nazis used
+telephone records to locate Jews for extermination. Until recently, Holland
+had a tendency to carefully think about such issues---I believe phone calls
+were billed in such a way as to not keep such records, for example).
+>
+>Yes, true digital cash--the fully untraceable form originally
+discussed--will allow some new channels for criminal activity. Privacy has
+its price. The ability of people to plot crimes and commit crimes behind
+closed doors is obvious, and yet we don't demand secret cameras in homes,
+apartments, and hotel rooms! A point we often make, but one we should
+always remember.
+>
+>And full untraceability--the necessary criterion for something to be really
+called "cash"--also stops other kinds of crimes, particularly government
+crimes.
+>
+>As to fully untraceable digital cash--the real e-cash--we may be the
+carriers of the torch for this. For whatever reasons, David Chaum is
+backpedalling on his original points, and is making pro-traceability
+noises. However, various persons on this list have pointed out that "coin
+mixes" and other such methods can restore the full untraceability even of
+Chaum's present system.
+>
+>So, there is hope.
 
 ## Tyranny 
 
