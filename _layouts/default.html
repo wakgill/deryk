@@ -72,7 +72,8 @@
 Hello!
 -->
 	
-<script type="text/javascript">function findPos(obj) {
+<script type="text/javascript">
+	function findPos(obj) {
   var curtop = 0;
   while (obj && obj.offsetParent) {
     curtop += obj.offsetTop; // todo: + webkit-transform
@@ -86,16 +87,16 @@ function scrollToHash() {
   if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
     return;
   prevhash = document.location.hash;
-  if (document.location.hash.match(/#selection-[0-9.]+%/)) {
+  if (document.location.hash.match(/#[0-9.]+%/)) {
     var p = parseFloat(document.location.hash.substring(1));
     if (0 < p && p < 100 /*&& p%5 != 0*/) {
-      var content = document.getElementById("shash-61560")
+      var content = document.getElementById("CONTENT")
       var y = findPos(content) + (content.offsetHeight)*p/100;
       window.scrollTo(0, y-16);
     }
   }
 
-  var adr = document.location.hash.match(/#selection-(\d+).(\d+)-(\d+).(\d+)/);
+  var adr = document.location.hash.match(/selection-(\d+).(\d+)-(\d+).(\d+)/);
   if (adr) {
     var pos=0,begin=null,end=null;
     function recur(e) {
@@ -113,7 +114,7 @@ function scrollToHash() {
       artificial.previousSibling.data += artificial.childNodes[0].data;
       artificial.parentNode.removeChild(artificial);
     }
-    var content = document.getElementById("shash-61560");
+    var content = document.getElementById("CONTENT");
     recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
     if (begin!=null && end!=null) {
       // scroll to selection
@@ -180,7 +181,7 @@ document.onmousedown = document.onmouseup = function(e) {
         }
       }
 
-      var content = document.getElementById("shash-61560");
+      var content = document.getElementById("CONTENT");
       recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
       if (begin[0]>0 && end[0]>0) {
         newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
