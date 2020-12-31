@@ -957,6 +957,16 @@ manner, such that even the backup tapes or disks are affected by a removal.
 >The issue of ISPs falling under the DTA or not is, I think, a battleground
 that is coming.
 
+## ITARs
+
+#### [Re: Netscape does the right thing (fwd)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/651f9337bb48dc2ca85ca3805c9936fa577aa3704925da9be51c10ba6f8b7056/)
+
+>If the ITAR/Bernstein/Junger set of cases gets interpreted in a certain way
+(exposure of non-U.S. persons to "U.S. strategic information" is a felony),
+then Barnes and Noble and Supercrown may have to post signs forbidding
+foreigners from entering certain areas, or the entire store, or checking
+official papers before the computer science section may be entered. ("Pappieren, bitte?")
+
 ## Justice
 
 #### [Re: active practice in America](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/4654feaba1c756986dbb56ceb4e749fa8460ce3d9d3fcc34c26ea4d8fa51f0a0/)
