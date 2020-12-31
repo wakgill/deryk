@@ -57,15 +57,17 @@
    
 "><a href="/deryk">Home</a></td><td class="links"><a href="/deryk">About</a></td><td class="links"><a href="/deryk/support">Support</a></td><td class="links"><a href="https://twitter.com/wakgill">Twitter</a></td></tr></tbody></table>
 
-{% if page.background %}
+<!---{% if page.background %}
 <div id="content" style="background:white; padding: 5px;">
 {% else %}	
-<div id="content"><span id="CONTENT">
-{% endif %}	
+<div id="content">
+{% endif %}--->
+<span id="CONTENT">	
+	
 	
 {{ content }}
 
-	</span></div>
+	</span><!---</div>--->
 
 <!--
 Hello!
@@ -73,4 +75,137 @@ Hello!
 	
 	<script src="https://nakamotoinstitute.org/static/js/selection-magic.js"></script>
  <script>function findPos(e){for(var o=0;e&&e.offsetParent;)o+=e.offsetTop,e=e.offsetParent;return o}var artificial=null,prevhash="";function scrollToHash(){if(document.location.hash.replace(/^#/,"")!=prevhash.replace(/^#/,"")){if(prevhash=document.location.hash,document.location.hash.match(/#[0-9.]+%/)){var e=parseFloat(document.location.hash.substring(1));if(0<e&&e<100){var o=findPos(i=document.getElementById("CONTENT"))+i.offsetHeight*e/100;window.scrollTo(0,o-16)}}var t=document.location.hash.match(/selection-(\d+).(\d+)-(\d+).(\d+)/);if(t){var i,n=0,a=null,l=null;if(artificial&&(artificial.previousSibling.data+=artificial.childNodes[0].data,artificial.parentNode.removeChild(artificial)),function e(o){1==o.nodeType&&(n=2+(-2&n)),3==o.nodeType&&(n|=1),n==t[1]&&(a=[o,t[2]]),n==t[3]&&(l=[o,t[4]]);for(var i=0;i<o.childNodes.length;i++)e(o.childNodes[i]);o.childNodes.length>0&&3==o.lastChild.nodeType&&(n=2+(-2&n))}((i=document.getElementById("CONTENT")).childNodes[3==i.childNodes[0].nodeType?1:0]),null!=a&&null!=l){if(3==a[0].nodeType){var d=document.createTextNode(a[0].data.substr(0,a[1]));(artificial=document.createElement("SPAN")).appendChild(document.createTextNode(a[0].data.substr(a[1]))),a[0].parentNode.insertBefore(d,a[0]),a[0].parentNode.replaceChild(artificial,a[0]),l[0]===a[0]&&(l=[artificial.childNodes[0],l[1]-a[1]]),a=[artificial.childNodes[0],0],artificial.scrollIntoView(!0)}else 1==a[0].nodeType&&a[0].scrollIntoView(!0);if(window.getSelection){var c=window.getSelection();c.removeAllRanges();var r=document.createRange();r.setStart(a[0],a[1]),r.setEnd(l[0],l[1]),c.addRange(r)}else document.selection}}}}window.onhashchange=scrollToHash;var initScrollToHashDone=!1;function initScrollToHash(){initScrollToHashDone||(initScrollToHashDone=!0,scrollToHash())}window.onload=initScrollToHash,setTimeout(initScrollToHash,500),document.onmousedown=document.onmouseup=function(e){var o="";if(window.getSelection){var t=window.getSelection();if(!t.isCollapsed){var i=0,n=[0,0],a=[0,0],l=t.getRangeAt(0);var d=document.getElementById("CONTENT");!function e(o){if(o===artificial)l.startContainer===o.childNodes[0]&&(n=[i,o.previousSibling.data.length+l.startOffset]),l.endContainer===o.childNodes[0]&&(a=[i,o.previousSibling.data.length+l.endOffset]);else{1==o.nodeType&&(i=2+(-2&i)),3==o.nodeType&&(i|=1),l.startContainer===o&&(n=[i,l.startOffset]),l.endContainer===o&&(a=[i,l.endOffset]);for(var t=0;t<o.childNodes.length;t++)e(o.childNodes[t]);o.childNodes.length>0&&3==o.lastChild.nodeType&&(i=2+(-2&i))}}(d.childNodes[3==d.childNodes[0].nodeType?1:0]),n[0]>0&&a[0]>0&&(o="selection-"+n[0]+"."+n[1]+"-"+a[0]+"."+a[1])}}else document.selection;try{location.hash.replace(/^#/,"")!=o&&(prevhash=o,history.replaceState?history.replaceState("",document.title,""==o?window.location.pathname:"#"+o):location.hash=o)}catch(e){}};</script>
-</body></html>
+<script>// Script to allow anchoring of user-selected content on html pages.
+// Original idea deployed by http://archive.today
+// Packaged for WordPress on http://trilema.com/2015/that-spiffy-selection-thing/
+
+function findPos(obj) {
+  var curtop = 0;
+  while (obj && obj.offsetParent) {
+    curtop += obj.offsetTop; // todo: + webkit-transform
+    obj = obj.offsetParent;
+  }
+  return curtop;
+}
+var artificial = null;
+var prevhash = "";
+function scrollToHash() {
+  if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
+    return;
+  prevhash = document.location.hash;
+  if (document.location.hash.match(/#[0-9.]+%/)) {
+    var p = parseFloat(document.location.hash.substring(1));
+    if (0 < p && p < 100 /*&& p%5 != 0*/) {
+      var content = document.getElementById("CONTENT")
+      var y = findPos(content) + (content.offsetHeight)*p/100;
+      window.scrollTo(0, y-16);
+    }
+  }
+
+  var adr = document.location.hash.match(/selection-(\d+).(\d+)-(\d+).(\d+)/);
+  if (adr) {
+    var pos=0,begin=null,end=null;
+    function recur(e) {
+      if (e.nodeType==1) pos = (pos&~1)+2;
+      if (e.nodeType==3) pos = pos|1;
+      if (pos==adr[1]) begin=[e, adr[2]];
+      if (pos==adr[3]) end  =[e, adr[4]];
+      for (var i=0; i<e.childNodes.length; i++)
+        recur(e.childNodes[i]);
+      if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+        pos = (pos&~1)+2;
+    }
+    // remove old "artificial" span if any
+    if (artificial) {
+      artificial.previousSibling.data += artificial.childNodes[0].data;
+      artificial.parentNode.removeChild(artificial);
+    }
+    var content = document.getElementById("CONTENT");
+    recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+    if (begin!=null && end!=null) {
+      // scroll to selection
+      if (begin[0].nodeType==3) {
+        var text = document.createTextNode(begin[0].data.substr(0, begin[1]));
+        artificial = document.createElement("SPAN");
+        artificial.appendChild(document.createTextNode(begin[0].data.substr(begin[1])));
+
+        begin[0].parentNode.insertBefore(text, begin[0]);
+        begin[0].parentNode.replaceChild(artificial, begin[0]);
+
+        if (end[0]===begin[0])
+          end = [artificial.childNodes[0], end[1]-begin[1]];
+        begin = [artificial.childNodes[0], 0];
+        /* window.scrollTo(0, findPos(artificial)-8); */ artificial.scrollIntoView(true);
+      } else if (begin[0].nodeType==1) {
+        /* window.scrollTo(0, findPos(begin[0])-8);   */ begin[0].scrollIntoView(true);
+      }
+
+      if (window.getSelection) {
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        var range = document.createRange();
+        range.setStart(begin[0], begin[1]);
+        range.setEnd  (  end[0],   end[1]);
+        sel.addRange(range);
+      } else if (document.selection) { // IE
+      }
+    }
+  }
+}
+window.onhashchange = scrollToHash;
+var initScrollToHashDone = false;
+function initScrollToHash() {
+  if (!initScrollToHashDone) {
+    initScrollToHashDone = true;
+    scrollToHash();
+  }
+}
+window.onload = initScrollToHash;
+setTimeout(initScrollToHash, 500); /* onload can be delayed by counter code */
+
+//document.onselectionchange = /* only webkit has working document.onselectionchange */
+document.onmousedown = document.onmouseup = function(e) {
+  var newhash = "";
+  if (window.getSelection) {
+    var sel=window.getSelection();
+    if (!sel.isCollapsed) {
+      var pos=0,begin=[0,0],end=[0,0];
+      var range=sel.getRangeAt(0);
+      function recur(e) {
+        if (e===artificial) {
+          if (range.startContainer===e.childNodes[0]) begin=[pos, e.previousSibling.data.length+range.startOffset];
+          if (range.endContainer  ===e.childNodes[0]) end  =[pos, e.previousSibling.data.length+range.endOffset ];
+        } else {
+          if (e.nodeType==1) pos = (pos&~1)+2;
+          if (e.nodeType==3) pos = pos|1;
+          if (range.startContainer===e) begin=[pos, range.startOffset];
+          if (range.endContainer  ===e) end  =[pos, range.endOffset ];
+          for (var i=0; i<e.childNodes.length; i++)
+            recur(e.childNodes[i]);
+          if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+            pos = (pos&~1)+2;
+        }
+      }
+
+      var content = document.getElementById("CONTENT");
+      recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+      if (begin[0]>0 && end[0]>0) {
+        newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
+      }
+    }
+  } else if (document.selection) { // IE
+  }
+
+  try {
+    var oldhash = location.hash.replace(/^#/, "");
+    if (oldhash != newhash) {
+      prevhash = newhash; /* avoid firing window.onhashchange and scrolling */
+      if (history.replaceState)
+        history.replaceState('', document.title, newhash=="" ? window.location.pathname : '#'+newhash);
+      else
+        location.hash = newhash;
+    }
+  } catch(e) {
+  }
+};</script>
+	</body></html>
