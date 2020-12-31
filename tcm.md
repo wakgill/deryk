@@ -343,6 +343,11 @@ other books (such as "Deep Black," an unauthorized history of the National
 Reconnaissance Organization), can only be described as "stupefyingly
 large."
 
+#### [“Right to Privacy” and Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/31c41fe67fecaec5d3bf379f1d540adc62cf5670ba65d917b6f34c24ea51bee6/)
+
+>I think Ronald Dworkin's new book on law has discussions of this "right to
+privacy" issue. I plan to read it soon.
+
 ## Censorship
 
 #### [How age and PICS ratings may go down…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/08/0234916809c8b1d916aea5086cd1af16861e59d220e380b93ed5ae9a7b200caa/)
@@ -1473,6 +1478,68 @@ rolling out a brand new type of card would of course be prohibitively high.
 time. Ever the realist, in some ways,  I knew no one would take on such a
 complex project. Just as no one followed through with the "Cypherpunks
 Credit Union" idea, discussed at several meetings in 1993.)
+
+#### [“Right to Privacy” and Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/31c41fe67fecaec5d3bf379f1d540adc62cf5670ba65d917b6f34c24ea51bee6/)
+
+>I believe any arguments based on a "right to privacy" are shaky. One will
+find no such right clearly enumerated in the Constitution, though various
+things seem to implicity reference such a right ("secure in one's papers,"
+"quartering troops," and the various First Amendment issues).
+>
+>Judge Bork--whatever you may think of him--was probably correct in pointing
+out that there just is no specific "right to privacy," at least insofar as
+protecting one against various laws. (To wit, one argument for abortion
+rights was a "right to privacy"--Bork believed this to be ungrounded in
+actual Constitutional law...and it's pretty clear that one cannot, say, use
+illegal drugs on the grounds that there's a "right to privacy.")
+>
+>I'm of course just a layman, not a law professor or scholar. But I feel it
+best that we not invoke a "right to privacy" to protect our crypto
+abilities, when such a "right" apparently does not exist.
+>
+>However, certain things which _look_ like a "right to privacy" do exist:
+>
+>* the aforementioned Fourth Amendment freedom from unlawful searches and
+seizures, requirements for warrants, and "secure in one's papers." This
+would pretty much preclude a requirement, for example, that all houses have
+curtains removed (or removable by police surveillance teams) so as to
+"monitor" what is going on inside houses.
+>
+>(I've been using the analogy of Clipper and key escrow to window curtains
+that can be made transparent when the government wants them to be
+transparent, and probably without the residents even knowing that the
+"transparency mode" has been remotely enabled. Ordinary people, like my
+family members, immediately understand this and are shocked. I then
+elaborate that it's as if the government could secrety gain access to
+diaries, letters, television habits, etc. without the occupant of a house
+even knowing it. This usually sours them on the USG rhetoric about the need
+to fight crime with key escrow tools.)
+>
+>* the freedom to speak as one wishes without government permission or
+sanction, save in limited situations covered by specific laws (a big
+loophole, I grant you) says to me that I can converse in Ubangi, in Hindi,
+in Pig Latin, in RC4, or in Tim's Secret Language without anybody in
+government telling me I must converse in a language _they_ can understand.
+>
+>(The loopholes are for the usual things: espionage, sedition, suborning
+perjury, extortion, and various other litigatable examples. A well-trodden
+area of discussion on this and other lists. But in none of these examples
+is there support for a government ability to tell citizen-units they may
+not use the language of their choice in communicating with others, in
+writing diaries for their own use, etc. (The "English-only" laws have to do
+with communicating with authorities, tax agencies, schools, etc. I'm not
+saying I support them, but they don't affect Alice and Bob communicating in
+Urdu or Prakelitine.))
+>
+>* The "freedom of association" provisions also provide a kind of support
+for a generalized "right to privacy."
+>
+>Using this "right to privacy" line of reasoning must be done very carefully. I would rather use First Amendment arguments if the USG tries to tell me
+that I may only write my diaries in a key escrow language form, or tries to
+tell Alice and Bob that they may only use a specified form of communication
+between themselves. "Crypto as speech" seems well on its way toward being
+established (e.g., Judge Patel's ruling, and the Supremes should get the
+case one of these years).
 
 
 ## Religion
