@@ -296,7 +296,14 @@ other names here from my work brigade. --Citizen-Unit Tim "The Zek" May
 >
 >The “Internet driver’s license” is something we need to fight against.
 
+## Blogs
 
+#### [Re: considering internet/privacy periodical](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/94e94bef946b9a8b5bc46c1a380a36ae179ebc1e8b94ec8dd7d2f981874cc2b0/)
+
+>I think we're _drowning_ in Net- and Web-based "zines," newsletters, hot
+and hip sites, and crud. More than just Sturgeon's law, it's an explosion
+of self-published crap. All well and good, as some may find something of
+interest, or so the theory goes.
 
 ## Books
 
@@ -570,6 +577,12 @@ than I view it as a cousin to my Heckler & Koch .45 USP.
 >In my view, equating crypto with armaments is exactly what the USG would
 like to see happen. This legitimizes their control of crypto.
 
+## Cryptoanarchy 
+
+#### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
+
+>The screens of freedom must occassionally be refreshed with a GUI-supported blood-color of digital martyrs.
+
 ## Curfew
 
 #### [Utah as a Religious Police State](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/587dfa181a979088d9981091f3aac2779d603d12973b366893e132e58154320e/)
@@ -743,11 +756,14 @@ say, but who then add their "me toos" to KOTM Vulis' babblings.
 moderator, no editor to solicit interesting articles. The key lies in
 people developing ideas and then writing about them.
 
-## Cryptoanarchy 
+#### [“Countless third world deaths”–who cares?](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/a68a39ef713748e2d9a7bfcc023f79aadaba970d7eb43a4f9360c47489e86a14/)
 
-#### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
-
->The screens of freedom must occassionally be refreshed with a GUI-supported blood-color of digital martyrs.
+>...the Third World is extremely good at reproduction, and is way,
+way ahead of the curve in terms of overpopulating themselves to extinction.
+>
+>Cypherpunks is about finding ways that the breeders cannot seize the assets
+of those who save, who plan for the future, and who are not sheep. If this sounds harsh, so be it. Cypherpunks is not about redistributing
+wealth.
 
 ## Digital Cash
 
