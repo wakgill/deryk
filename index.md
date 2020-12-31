@@ -26,10 +26,10 @@ I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>
 
 ## Books
 
-<p><a href="/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
+<p><a href="/deryk/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
 </p>
 
-Cypherpunk Timothy C. May's [collected writings](/tcm) on topics from Anarchy to Welfarism and an accompanying Twitter [bot.](https://twitter.com/timothycmay) This book is being 'written' in public and new material is added weekly. A print edition will be available when the digital book is complete.
+Cypherpunk Timothy C. May's [collected writings](/deryk/tcm) on topics from Anarchy to Welfarism and an accompanying Twitter [bot.](https://twitter.com/timothycmay) This book is being 'written' in public and new material is added weekly. A print edition will be available when the digital book is complete.
 
 ## Contact
 
