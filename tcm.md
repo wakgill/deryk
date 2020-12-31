@@ -941,6 +941,45 @@ Sure, security measures and vulnerabilities always need to be looked at,
 but a lot of the rhetoric is being driven by journalists looking for lead
 stories.
 
+## Internet
+
+#### [“Internet II” and Clinton](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/25e16871f90145774ac4cb4fa6151bcafaf0af045ab3b7895cb4c1f23a6c83b8/)
+
+>Clinton has unveiled his plans, such as they are, for what he calls
+"Internet II," combining in his announcement $100 million in funding for
+school links, "an Internet account for every high school student," and
+(unspecified) speed improvements to the Internet. (I wonder if he thinks the Internet belongs to the U.S., or is controlled
+by the U.S.?)
+
+>The implications for our list are as we have long talked about. Potentially:
+>
+>* a government attempt to reassert some sort of control over the Internet,
+>a la the "we paid for the Arpanet, so we can control what it's used for."
+>
+>(Of course, the Internet is no longer what it once was, and it is not a
+specific network the USG can claim to own or control. It's more of a
+"protocol," a set of agreements on how packets, messages, newsgroups, etc.
+will be carried. I'm using the term "Internet" in its largest sense, as
+"the Net.")
+>
+>* all of these schoolchildren are gonna need to be protected from filthy
+Web sites, unrestricted free speech, pedophiles, money launderers (and
+moneychangers), Hemlock Society advocates, gay and lesbo rights groups, the
+NRA< and other assorted Horsemen. Look for increased school purchases of
+filter software, various laws tightening up what U.S. sites carry
+(depending on how the  CDA gets resolved).
+>
+>* my prediction from a few years ago: "the Internet Driver's License." Or,
+worse, all packets must have True Names attached in some way. (The smallest
+packets, a la ATM, may be too small to carry IDs, but larger-granularity
+packets may have to carry IDs, digital sigs, etc.)
+>
+>Of course, it may be that Clinton is just posturing for the upcoming
+election, and the "Internet II" will be a trivia question a few years from
+now. 
+>
+>But now that the politicians have well and truly discovered the Net, look out.
+
 ## ISPs
 
 #### [“Forward Privacy” for ISPs and Customers](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/1444f41b4156d9411bf13ba73af4f774ca895414310a2686a04df268eccf9643/)
