@@ -122,6 +122,18 @@ remailers, offshore havens, etc.), the greater the likelihood we'll win.
 chance that we've already won, that we've already reached the point of no
 return and are on the path to crypto anarchy.
 
+#### [Another view of anarchy…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/ecae40164bf46b0e1e45f3e83aaf27b9ecc8bfbf0c642f2db119a154dde2747e/)
+
+>Speaking as an advocate of what some years ago I dubbed "crypto anarchy," I
+have a much more optimistic view of "anarchy." Anarchy is what I see around
+me in nearly all areas of human intercourse. What I read, what I eat, what
+I watch on t.v., who I talk to, where I go, how I live,...all are
+essentially "anarchic," in the sense that no laws (or at least very few
+laws) affect my choices. Doesn't mean I have infinite choice, doesn't mean
+I have the choices I might want...just means  that no laws by my city,
+county, state, or national government have much of anything to say about
+these questions. This, to me, is not at all dismal.
+
 ## Anonymity 
 
 #### [Enough with the ICO-Me-So-Horny-Get-Rich-Quick-Lambo Crypto](https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto)
@@ -163,6 +175,24 @@ digital cash.
 >
 >There are some ways to reduce the popularity of this Murder, Incorporated
 system. 
+
+#### [Another view of anarchy…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/ecae40164bf46b0e1e45f3e83aaf27b9ecc8bfbf0c642f2db119a154dde2747e/)
+
+>As for "assassination politics," I think the theoretical idea of using
+betting pools, untraceable payments, etc., are worthwhile _theoretical_
+ideas to discuss, occasionally (indeed, I would hope--seriously!--that the
+FBI is aware of such possibilities and is thinking about them).
+>
+>For me, there is no one I can think of that I would want killed. Not my
+taunters, not my elected officials (though I despise Senator Fineswine),
+not court officials, not even the Devil Himself. Clinton, er, I mean
+"Saddam Hussein." The Hitler example ("Wouldn't you go back in time and
+kill Hitler if you could?") is so hackneyed as to be meaningless. Actually,
+I suppose I would be happy if Pol Pot were to die, and maybe Idi Amin (and
+I'm not sure both are still alive), but for the most part I don't think
+fundamental problems are directly attributable to specific individuals.
+>
+>So, this is one of several reasons I rarely discuss "assassination politics."
 
 ## Autobiography
 
@@ -1193,6 +1223,23 @@ products.
 >Fuck off, to be blunt. You've got to learn to start making actual points,
 and not trying to show your writing chops from the Hunter S. Thompson
 Correspondence School of Creative Writing. Fuck off. Back into my killfile you go.
+
+#### [Re: Put up or shut up!](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/54df76688d24e48ba0ce22c8164896515ddc849fe460f5b4c419ebee6725f1bd/)
+
+>I worked very hard a number of years, not participating in politics or
+activism, to accumulate enough money so as to now be able to live in peace,
+not having to get up at 6 in the morning and fight the commuter traffic so
+as to get to my assigned desk by 8 a.m.
+>
+>I will express my thoughts, my theories, and will develop systems and ideas
+as I see fit. However, I have no intention of putting my future at risk by
+taking steps such as "civil disobedience" or "assassination politics" which
+could very likely result in multimillion dollar fines (hint: such fines
+would have great meaning for me) or seizure of my assets and jail time.
+>
+>Your mileage may vary, but this "amateur anarchist" intends to keep on
+doing what he's doing and is not interested in "crossing the line" to the
+point where his assets will be seized.
 
 ## Police
 
