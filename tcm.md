@@ -8,6 +8,8 @@ image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers. The editing work in making this includes reading something like 3,000 emails, many of which were essay length. Many...many hours... but highly educational. If you would like to support it, you can in [Bitcoin.](/deryk/support)
 
+The thoughts on this page are entirely Timothy C. May's. A few things are worth understanding about him: a) he is often deliberately provocative to make points. If you find him offensive, it is both your right and your problem b) just because he writes that something is possible or will happen doesn't mean he thinks it ought to happen, and c) the fact that I've chosen a particular quote or passage from him does not mean I endorse either the phrasing or the content. 
+
 <div style="margin-bottom:15px;background: #f2e0b0;padding: 5px;"> 
 [ad] Your product ad can go here and reach tens of thousands of readers of this book. I only advertise products I like and use! <a href="https://wakgill.github.io/deryk/#contact">Email</a> me.
 </div>
