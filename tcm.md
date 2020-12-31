@@ -857,6 +857,33 @@ is indeed so, and I don't even necessarily think this is completely
 unreasonable...though I now am more inclined to support the right to keep
 and bear nukes.
 
+#### [Re: [SARCASM] Re: The Right to Keep and Bear Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/b9bb079e3c07e1a93c0a4920e06292ab46171d621be5386fd778d5ee9da6a7d3/)
+
+>Obvious to us all, even the anti-gun contingent, should be the point that a
+perp intent on killing a lot of people will be unaffected by the magazine
+ban. First, because such mags are widely available and cannot be taken off
+the streets, even if martial laws were to be declared. Second, because
+magazine changes are very fast...a schoolyard mass-killer will be
+unaffected by having to insert 10 5-round magazines. (And a shotgun would
+be more effective in a schoolyard anyway, obviously enough.)
+>
+>This relates to absurd proposals, from folks like Moynihan, to "tax
+ammunition" at stratospheric levels, e.g., $5 a round. This will obviously
+not affect the perp who walks into a liquor store with a loaded pistol,
+costing all of $30 to load (assuming he used store-bought ammo). What it
+_would_ do is make gun-handling less safe, as target practice would become
+prohibitively expensive. And what would it do to those of us with 3000 or
+more rounds of ammo already bought? Or reloaders? Or the black market? Or
+even the flea market?
+
+#### [Re: [SARCASM] Re: The Right to Keep and Bear Crypto](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/b9bb079e3c07e1a93c0a4920e06292ab46171d621be5386fd778d5ee9da6a7d3/)
+
+>A "flash suppressor" is one of the several "points" which can make a
+gun into an Evil, Babykilling, Not Useful for Hunting Assault Killer
+Weapon. Other "points" being a pistol grip, a bayonet mount, and perhaps
+other factors.
+
+
 ## Infowar
 
 #### [Re: ADJ_ust](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/62a2b6ccf81bd533d6bac952f2f28e93f6ebf9dc1960d20e3a73f572340e9565/)
@@ -1084,6 +1111,28 @@ conversations with the Arabs purchasing the terrorist actions.
 >I take it as self-evidently true that NSA would spend the relatively small
 amount of money to build a dedicated key cracker...probably at least
 several for each major cipher.
+
+## Nukes
+
+#### [Electromagnetic Pulse](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/2754f70b510a628c0b8d537c273c3fbd5474d600228e7e70b8089c5c82260273/)
+ 
+>...it's a myth of our age that nukes destroy electronics!
+>
+>The infamous "electomagnetic pulse," or EMP, was discovered by the American
+side in the Cold War only during the extremely high altitude bursts over
+Johnson Atoll, circa 1962. (This is the test where streetlights in Hawaii,
+a thousand or more miles away, were burned out, etc.)
+>
+>EMP results from the prompt gammas from a nuclear explosion interacting
+with the upper atmosphere to produce a wavefront of electromagnetic energy
+as the gammas interact with the uppper ionosphere. Ground-level bursts have
+no such effects, though I wouldn;t want to be close to one.
+>
+>The key is that the effects of near-ground-level bursts are _extremely_
+localized. Shocking so, no pun intended. The largest bomb in the U.S.
+arsenal, believed to be 20 MT, might leave a crater several miles in
+diameter, but would hardly be felt 30 miles away. Certainly almost no
+electronic devices would be damaged, except if close to the blast center.
 
 ## O.J. Simpson
 
