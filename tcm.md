@@ -632,6 +632,22 @@ not belong on Cypherpunks" are misguided. The list is made up of people who
 have crypto and privacy concerns broader than just writing C++ code for
 Sparcstations.
 
+#### [Re: Best-of-Crypto (was:this list is a joke)](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/eb743b24b9338feee61a08281990f205b9220dc130d1c6d7ad9a2092629b930e/)
+
+>Something I've noticed about many of these "This list is not helpful to
+me--I want it to discuss the stuff I'm interested in!" whinings and
+moanings is that they often come from people who I've never heard of, or at
+least who do not appear to ever get involved. Perhaps they're new to the
+list, found it was not what they wanted, and thus they should simply
+unsubscribe, not whine about it not being what they wanted.
+>
+>Or perhaps they're longterm subscribers who just never have anything to
+say, but who then add their "me toos" to KOTM Vulis' babblings.
+>
+>In any case, the list is what people make of it. There is no magic wand, no
+moderator, no editor to solicit interesting articles. The key lies in
+people developing ideas and then writing about them.
+
 ## Cryptoanarchy 
 
 #### [Kill ‘em all…I’ll sort ‘em out…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/03/145978eb33c10a5e299faa7c08f939df2eac830540f5b9df9227d29961fca1e8/)
@@ -922,6 +938,17 @@ other factors.
 Sure, security measures and vulnerabilities always need to be looked at,
 but a lot of the rhetoric is being driven by journalists looking for lead
 stories.
+
+## ISPs
+
+#### [“Forward Privacy” for ISPs and Customers](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/1444f41b4156d9411bf13ba73af4f774ca895414310a2686a04df268eccf9643/)
+
+>Something ISPs could do--and may do if there is sufficient customer
+pressure--is to adopt a policy of "forward secrecy" (to slightly abuse this
+technical term). That is, to have an explicit policy--implemented in the
+software--of _really_ deleting the back messages once a customer downloads
+them to his site. This means that _backups_ must be done in a careful
+manner, such that even the backup tapes or disks are affected by a removal.
 
 ## Justice
 
@@ -1240,6 +1267,60 @@ would have great meaning for me) or seizure of my assets and jail time.
 >Your mileage may vary, but this "amateur anarchist" intends to keep on
 doing what he's doing and is not interested in "crossing the line" to the
 point where his assets will be seized.
+
+#### [Re: Put up or shut up!](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/73118bfa39e2684f637daf8b13cbbcbef540243fcce1a2920c4a51fd747db988/)
+
+>I am not encouraging _others_ to break the laws I am
+unwilling to break myself, for financial reasons. You won't find me
+cheering on people to stop paying taxes, selling secrets about the B-2
+bomber to Iran, and so on.
+>
+>I believe I am more valuable--in terms of meeting the goals I think are
+reasonable for myself and others, and in terms of ultimately moving
+things--by doing the work I've done. Now, there are some on this list who
+believe I should have been programming Macintosh applications instead of
+writing, and some who apparently believe I should be refusing to pay taxes
+and fighting the IRS in court, but I believe working on the implications of
+"crypto anarchy" is both interesting and important.
+>
+>Who, after all, pushed for "remailers" at the first Cypherpunks meeting?
+Who first (to my knowledge) described how to use the LSB of a digital image
+to steganographically store messages, in sci.crypt posts in 1989? Who has
+talked for many years about the implications of digital cash for so many
+things, including tax policies and government's ability to control
+transactions? Who coined several phrases, including "Big Brother Inside"
+(in the Intel logo), "National borders are just speed bumps on the
+information highway," and other such slogans? Who has attended most
+physical CP meetings in the Bay Area (a half dozen others have, too)? Who
+wrote a 1.2 MB FAQ on key issues?
+>
+>Sorry if I sound defensive, but I chafe when I hear nonsense about "Put up
+or shut up."
+>
+>Going to jail is rarely an effective option. Losing my assets and having to
+go back to work as a chip physicist even less so.
+>
+>Look, I've talked about some fairly controversial ideas. But, I think, even
+the various lawyers on the list--Brian Davis, ex-DA, Michael Froomkin, law
+prof, Black Unicorn, occupation unknown, Greg Broiles, recent law school
+grad--will have to admit that nothing I have said as an opinion about what
+_might_ happen, about what the implications of strong cryptography might
+be, etc., or about what I would _like_ to see happen, is "prosecutable" in
+any reasonable sense. Sure, Eugene Debs was thrown in jail for arguing the
+military draft was unconstitutional (so much for _his_ free speech), but
+that was then and this is now. I don't believe any single post I have ever
+made could actually result in prosecution, as I have committed no crimes.
+>
+>(Nor, for that matter, do I think Jim Bell has ever really "crossed the
+line." While some of his posts come perilously close to advocating the
+murder of public officials, none of them seem to actually do so, nor to
+provide any proof that he is actually conspiring to create an actual
+system, even if conspiracy to create such a system could be found to
+violate a specific law, absent any actual murders, etc.)
+>
+>So, I'll "put up or shut up" by continuing my present path. I reject the
+idea that one must lay on the tracks as a sacrifice of one's self to the
+Cause. Usually it's better to suvive and continue fighting in other ways.
 
 ## Police
 
