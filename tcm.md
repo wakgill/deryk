@@ -1769,18 +1769,18 @@ function scrollToHash() {
         artificial = document.createElement("SPAN");
         artificial.appendChild(document.createTextNode(begin[0].data.substr(begin[1])));
 
-        begin[0].parentNode.insertBefore(text, begin[0]);
+   begin[0].parentNode.insertBefore(text, begin[0]);
         begin[0].parentNode.replaceChild(artificial, begin[0]);
 
-        if (end[0]===begin[0])
-          end = [artificial.childNodes[0], end[1]-begin[1]];
-        begin = [artificial.childNodes[0], 0];
+ if (end[0]===begin[0])
+ end = [artificial.childNodes[0], end[1]-begin[1]];
+  begin = [artificial.childNodes[0], 0];
         /* window.scrollTo(0, findPos(artificial)-8); */ artificial.scrollIntoView(true);
       } else if (begin[0].nodeType==1) {
         /* window.scrollTo(0, findPos(begin[0])-8);   */ begin[0].scrollIntoView(true);
       }
 
-      if (window.getSelection) {
+if (window.getSelection) {
         var sel = window.getSelection();
         sel.removeAllRanges();
         var range = document.createRange();
@@ -1827,7 +1827,7 @@ document.onmousedown = document.onmouseup = function(e) {
         }
       }
 
-      var content = document.getElementById("CONTENT");
+ var content = document.getElementById("CONTENT");
       recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
       if (begin[0]>0 && end[0]>0) {
         newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
