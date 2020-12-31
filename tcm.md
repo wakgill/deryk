@@ -442,6 +442,48 @@ check (a promise that one's bank will make good) or by asking for a
 purchase to be put on a "tab" (for later payment), are both situations
 where a merchant might demand various forms of credentials.
 
+#### [Identity is Just Another Credential…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/0e498e553ec597bbc37d0f804cedf1523f0efc9537503dc47e674c84c79b763d/)
+
+>I believe "identity is just another credential," not necessarily
+very important. I sometimes exaggerate this point a bit by saying, "Your
+key is your identity." 
+>
+(By "identity" I mean the popular notion of unique, biometric, True Name
+identity. Other forms of identity exist as well, such as usernames (bound
+to passwords), phone numbers, corporate names, etc.)
+>
+Identity--the True Name sort--is sometimes useful, but is often given
+exaggerated importance.
+>
+>For example, I've met "Hal Finney," but, for all I know, he's as fictional
+a person as "Lucky Green" is. In fact, it was not until fairly recently
+that I even learned "Lucky Green" is not his True Name...I had assumed the
+"Lucky" part  was a nickname, of course, but that the "Green" part was
+real. I  had no reason to suspect otherwise, no need to demand proof of his
+True Name (such as things are here in the U.S.), etc.
+>
+>The "is-a-person" debate is one we should be careful to consider the real
+issues for. As Hal (or whomever he is) notes, starting with a comprehensive
+data base of True Names, fingerprints, etc., and binding them to
+is-a-person credentials is potentially very dangerous.
+>
+>(And from a libertarian/anarchist point of view, I don't want to pay for
+such a Big Brother infrastructure, nor do I think it gets at the real
+issues. If identity is just another credential, and the exchange of
+credentials is based on mutually agreed-upon arrangements, then mandating
+an identity credential is a Bad Thing.)
+
+#### [Re: Identity is Just Another Credential…](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/10/32af5966573ebc6aa4f2615958ff01e333ac278d1dd3d4e2eba5ad45079c096e/)
+
+>I have had almost no
+need to verify the physical identity of anyone I have ever dealt with,
+which tells me something. (Nor does anyone I know ever ask me for proof
+that I am Tim May, and not someone else. Occasionally I am asked to flash
+my California Driver's License, but that's about it. Much more important is
+that I have certain credentials--tickets to theaters, an admission card to
+my health club, etc. Physical identity just ain't what's it's cracked up to be.
+
+
 ## Crime
 
 #### [Re: “Confessing to a felony”](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/3417afa60751c062e471ba10c8eb2af788244feced7db45c1da5eb03176dc12a/)
