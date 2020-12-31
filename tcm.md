@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Timothy C. May: From Anarchy to Welfarism"
+title: "Timothy C. May Lexicon: From Anarchy to Welfarism"
 image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 ---
 
