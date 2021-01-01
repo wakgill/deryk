@@ -4,7 +4,7 @@ title: "Timothy C. May Lexicon: From Anarchy to Welfarism"
 image: https://raw.githubusercontent.com/wakgill/deryk/main/assets/img/tmc.png
 ---
 
-# Timothy C. May Lexicon: From "Anarchy" to "Welfarism" 
+# Timothy C. May Lexicon: From "Anarchy" to "Welfarism"  
 
 This <code>in-progress</code> book gathers for the first time the enigmatic cypherpunk, cryptoanarchist, and all-around provocateur Timothy C. May’s most profound, inflammatory, insightful, and clear-cut commentary from his thousands of posts in the Cypherpunk Mailing List, interviews and papers. The editing work in making this includes reading something like 4,500 emails, many of which were essay length. Many...many hours... but highly educational. If you would like to support it, you can in [Bitcoin.](/deryk/support)
 
