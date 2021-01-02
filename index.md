@@ -31,10 +31,6 @@ I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>
 
 Cypherpunk Timothy C. May's [collected writings](/deryk/tcm) on topics from Anarchy to Welfarism and an accompanying Twitter [bot.](https://twitter.com/timothycmay) This book is being 'written' in public and new material is added weekly. A print edition will be available when the digital book is complete.
 
-## Projects
-
-[Archive.Bitcoin.com](/bitcoin-archive). The Nakamoto Studies Institute is in the process <code>(01 January 2021)</code> of being merged into a new site on Bitcoin.com. The archive has all the writings of Satoshi Nakamoto, even ones that are surprisingly forgotten about. Many of the emails include original headers. A search feature allows you to instantly search for any word you want across the over 600 pieces of content. That means if people are lying and claiming Satoshi didn't care about Bitcoin being used for small payments, you can find all the references to terms like <code>micropayment</code> and <code>commerce</code> and dunk on the troll. And researchers, authors, screenwriters and filmmakers will find the site useful. 
-
 ## Contact
 
 You can email me at <code>deryk@makgill.ch</code>. and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill) or Telegram unless we've previously used those places to talk.
