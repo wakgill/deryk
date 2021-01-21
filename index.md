@@ -24,7 +24,7 @@ This is the website of Deryk Makgill. I am best known for work on the economics 
 
 I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>(26 December 2020)</code> if I will be writing more essays again regulary, and if I'll be posting my old archives. *Yes,* but I don't know when. For now, I'm working on several projects that are mostly the writings of better thinkers than I.
 
-- [Re: Bitcoin is a Disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036512.html) <code>(29 December 2020)</code> and a [followup](https://www.metzdowd.com/pipermail/cryptography/2020-December/036532.html). These are from my email thread with Ray Dillinger on the Cryptography Mailing List.
+- [Re: Bitcoin is a Disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036512.html) <code>(29 December 2020)</code> and a [followup](https://www.metzdowd.com/pipermail/cryptography/2020-December/036532.html). These are from my email thread with Ray Dillinger on the Cryptography Mailing List. Some [people](https://news.ycombinator.com/item?id=25600212) loved them, [others...](https://twitter.com/adam3us/status/1344789997766008840).
 
 ## Books
 
