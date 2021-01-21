@@ -24,6 +24,8 @@ This is the website of Deryk Makgill. I am best known for work on the economics 
 
 I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>(26 December 2020)</code> if I will be writing more essays again regulary, and if I'll be posting my old archives. *Yes,* but I don't know when. For now, I'm working on several projects that are mostly the writings of better thinkers than I.
 
+- [Re: Bitcoin is a Disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036512.html) <small>Dec 29 2020</small> and a [followup](https://www.metzdowd.com/pipermail/cryptography/2020-December/036532.html). These are from my email thread with Ray Dillinger on the Cryptography Mailing List.
+
 ## Books
 
 <p><a href="/deryk/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
@@ -33,5 +35,5 @@ Cypherpunk Timothy C. May's [collected writings](/deryk/tcm) on topics from Anar
 
 ## Contact
 
-You can email me at <code>deryk@makgill.ch</code>. and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill) or Telegram unless we've previously used those places to talk.
+You can email me at <code>wakgill@protonmail.ch</code>. and I will try to respond within one week. Please don't send me messages on [Twitter](https://twitter.com/wakgill), Signal, Telegram, etc. unless we've previously used those places to talk. I'm also on Reddit [u/wakgill](https://www.reddit.com/user/wakgill) and participate in various online mailing lists.
 
