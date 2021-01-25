@@ -11,7 +11,7 @@ available to us from Satoshi Nakamoto's writings and several times contradicted.
 
 ## Source #1: MIT License 
 
-
+Satoshi chose one of the most permissive software licenses he could for Bitcoin. Some point to the copyright notice at the top as being evidence that Satoshih intended to enforce copyright claims, but what they don't understand is that it is the default MIT License format and not direct evidence of anything.
 
 ```
 Copyright (c) 2009 Satoshi Nakamoto
@@ -37,7 +37,7 @@ THE SOFTWARE.
 
 ## Primary Source #2: Bitcoin open source implementation of P2P currency
 
-In a [post](https://wakgill.github.io/bitcoin-archive/docs/forum/p2p-foundation/1/#selection-23.109-23.176) on the P2P Foundation website on February 11, 2009, Satoshi writes that Bitcoin is an open source project.
+In a [post](https://wakgill.github.io/bitcoin-archive/docs/forum/p2p-foundation/1/#selection-23.109-23.176) on the P2P Foundation website on February 11, 2009, Satoshi writes that Bitcoin is an "open source project."
 
 ## Primary Source #3:
 
