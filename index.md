@@ -25,6 +25,10 @@ I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>
 
 - [Re: Bitcoin is a Disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036512.html) <code>(29 December 2020)</code> and a [followup](https://www.metzdowd.com/pipermail/cryptography/2020-December/036532.html). These are from my email thread with Ray Dillinger on the Cryptography Mailing List. Some [people](https://news.ycombinator.com/item?id=25600212) loved them, [others...](https://twitter.com/adam3us/status/1344789997766008840).
 
+## Work 
+
+My latest project is a [searchable database](https://wakgill.github.io/bitcoin-archive/) of all of Satoshi Nakamoto's emails, forum posts, and the Bitcoin whitepaper. for the first time, you can search all the hundreds of documents at once by key words like <code>micropayment</code> or <code>Moore's Law</code>.
+
 ## Books
 
 <p><a href="/deryk/tcm"><img loading="lazy" width="266" height="200" src="/deryk/assets/img/tim-may-vhs.gif" alt="" class="wp-image-542"></a>
