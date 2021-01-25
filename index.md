@@ -24,6 +24,7 @@ This is the website of Deryk Makgill. I am best known for work on the economics 
 I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>(26 December 2020)</code> if I will be writing more essays again regulary, and if I'll be posting my old archives. *Yes,* but I don't know when. For now, I'm working on several projects that are mostly the writings of better thinkers than I.
 
 - [Re: Bitcoin is a Disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036512.html) <code>(29 December 2020)</code> and a [followup](https://www.metzdowd.com/pipermail/cryptography/2020-December/036532.html).
+- [Satoshi and Intellectual Property](https://wakgill.github.io/deryk/satoshi-ip) <code>(25 January 2021)</code>
 
 ## Work 
 
