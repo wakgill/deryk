@@ -27,7 +27,7 @@ I've been [asked](https://twitter.com/wakgill/status/1342591943969271809) <code>
 
 ## Work 
 
-My latest project is a [searchable database](https://wakgill.github.io/bitcoin-archive/) of all of Satoshi Nakamoto's emails, forum posts, and the Bitcoin whitepaper. for the first time, you can search all the hundreds of documents at once by key words like <code>micropayment</code> or <code>Moore's Law</code>.
+My latest project <code>(24 January 2021)</code> is a [searchable database](https://wakgill.github.io/bitcoin-archive/) of all of Satoshi Nakamoto's emails, forum posts, and the Bitcoin whitepaper. for the first time, you can search all the hundreds of documents at once by key words like <code>micropayment</code> or <code>Moore's Law</code>.
 
 ## Books
 
