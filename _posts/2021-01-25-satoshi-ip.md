@@ -74,7 +74,7 @@ In a [forum post](https://bitcointalk.org/index.php?topic=64.msg21766#msg21766) 
 
 ## Primary Source #8: Re: More BitCoin questions
 
-In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/10/#selection-27.423-2.8) reply to Mike Hearn on January 07, 2011, Satoshi asks Mike about his work on a client-only implentation of Bitcoin.
+In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/10/#selection-27.423-2.8) reply to Mike Hearn on January 07, 2011, Satoshi asks Mike about the licensing on his work on a client-only implentation of Bitcoin.
 
 ```
 The first client-only implementation will really start to move things to the next step.  Is it going to be open source, or Google proprietary?
