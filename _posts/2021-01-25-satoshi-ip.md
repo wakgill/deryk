@@ -67,8 +67,12 @@ It would be nice if we made some free PHP code for an image and file hosting ser
 
 In a [forum post](https://wakgill.github.io/bitcoin-archive/docs/forum/bitcoin-forum/90/#selection-23.287-23.337) on March 23, 2010, Satoshi writes that it doesn't matter that the bitcoin.com url is already taken because "it's standard for open source projects to be .org."
 
+## Primary Source #7: Re: New icon/logo
 
-## Primary Source #7: Re: More BitCoin questions
+In a [forum post](https://bitcointalk.org/index.php?topic=64.msg21766#msg21766) on November 13, 2010, Satoshi suggests that work on Bitcoin graphics would be easier if everyone would just put their work into the public domain.
+
+
+## Primary Source #8: Re: More BitCoin questions
 
 In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/10/#selection-27.423-2.8) reply to Mike Hearn on January 07, 2011, Satoshi asks Mike about his work on a client-only implentation of Bitcoin.
 
@@ -82,9 +86,9 @@ Mike replies that he is indeed planning to open source the work and Satoshi [wri
 Perfect.  Once your code shows how to simplify it down, other authors can follow your lead.  
 ```
 
-## Primary Source #8: Re: Open sourced my Java SPV impl
+## Primary Source #9: Re: Open sourced my Java SPV impl
 
-In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/13/#selection-27.691-27.835) reply to Mike Hearn on March 09, 2009, Satoshi writes that it is "great" that Mike was able to open source his Java SPV implementation. 
+In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/13/#selection-27.691-27.835) reply to Mike Hearn on March 09, 2011, Satoshi writes that it is "great" that Mike was able to open source his Java SPV implementation. 
 
 
 
