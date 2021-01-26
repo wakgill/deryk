@@ -67,7 +67,7 @@ It would be nice if we made some free PHP code for an image and file hosting ser
 
 In a [forum post](https://wakgill.github.io/bitcoin-archive/docs/forum/bitcoin-forum/90/#selection-23.287-23.337) on March 23, 2010, Satoshi writes that it doesn't matter that the bitcoin.com url is already taken because "it's standard for open source projects to be .org."
 
-## Source #7
+## Source #7: Re: Switch to GPL
 
 In a [forum post](https://bitcointalk.org/index.php?topic=989.0) on September 12, 2010, Satoshi explains that he chose the MIT License because it allows for a wide range of compatibilities, not just non-commercial ones, and thus would have the effect of creating the most open developer enviornment in which licensing doesn't get in the way. He also says the fear of closed source takeover is overexaggerated.
 
