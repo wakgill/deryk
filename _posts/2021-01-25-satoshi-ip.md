@@ -9,7 +9,7 @@ permalink: satoshi-ip
 TL;DR the claim that Satoshi Nakamoto supported intellectual property in Bitcoin is unsubstantiated by the public evidence
 available to us from Satoshi Nakamoto's writings and is several times actually contradicted. While this does not prove that Satoshi did not plan from the start of his work developing Bitcoin to enforce intellectual property claims in the future, we should treat claims like that with skeptiscm and demand primary source proof.
 
-## Source #1: MIT License 
+## Primary Source #1: MIT License 
 
 Satoshi chose one of the most permissive software licenses he could for Bitcoin. Some point to the copyright notice at the top as being evidence that Satoshih intended to enforce copyright claims, but what they don't understand is that it is the default MIT License format and not direct evidence of anything.
 
@@ -67,7 +67,21 @@ It would be nice if we made some free PHP code for an image and file hosting ser
 
 In a [forum post](https://wakgill.github.io/bitcoin-archive/docs/forum/bitcoin-forum/90/#selection-23.287-23.337) on March 23, 2010, Satoshi writes that it doesn't matter that the bitcoin.com url is already taken because "it's standard for open source projects to be .org."
 
-## Primary Source #7: Re: New icon/logo
+## Primary Source #7
+
+In a [forum post](https://bitcointalk.org/index.php?topic=989.0) on September 12, 2010, Satoshi explains that he chose the MIT License because it allows for a wide range of compatibilities, not just non-commercial ones, and thus would have the effect of creating the most open developer enviornment in which licensing doesn't get in the way. He also says the fear of closed source takeover is overexaggerated.
+
+```
+If the only library is closed source, then there's a project to make an open source one.
+
+If the only library is GPL, then there's a project to make a non-GPL one.
+
+If the best library is MIT, Boost, new-BSD or public domain, then we can stop re-writing it.
+
+I don't question that GPL is a good license for operating systems, especially since non-GPL code is allowed to interface with the OS.  For smaller projects, I think the fear of a closed-source takeover is overdone.
+```
+ 
+## Primary Source #8: Re: New icon/logo
 
 In a [forum post](https://bitcointalk.org/index.php?topic=64.msg21766#msg21766) on November 13, 2010, Satoshi suggests that work on Bitcoin graphics would be easier if everyone would just put their work into the public domain.
 
@@ -91,6 +105,12 @@ Perfect.  Once your code shows how to simplify it down, other authors can follow
 In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/13/#selection-27.691-27.835) reply to Mike Hearn on March 09, 2011, Satoshi writes that it is "great" that Mike was able to open source his Java SPV implementation. 
 
 
+## Secondary Source #1: Re: 2013-09-19 PR Web - Coinsigner Launches Distributed Exchange Platform
 
+In a [forum post](https://bitcointalk.org/index.php?topic=297428.msg3209070#msg3209070) on September 22, 2013, Mike Hearn writes that early Bitcoiners are not going to look kindly on attempts to patent anything to do with the technology. 
+
+```
+...this community will not look kindly on any attempt to patent anything about cryptocurrencies. Doesn't matter if you think you're doing it for defensive reasons. We've seen it all go wrong many times before. It's far better to just not patent something and let it enter the public domain as prior art.
+```
 
 
