@@ -39,7 +39,7 @@ THE SOFTWARE.
 
 In a [post](https://wakgill.github.io/bitcoin-archive/docs/forum/p2p-foundation/1/#selection-23.109-23.176) on the P2P Foundation website on February 11, 2009, Satoshi writes that Bitcoin is an "open source project."
 
-## Source #3:
+## Source #3: Re: Questions about Bitcoin
 
 In a [forum post](https://wakgill.github.io/bitcoin-archive/docs/forum/bitcoin-forum/13/#selection-23.1421-23.1619) on December 10, 2009, Satoshi writes that Bitcoin software must be open source for security reasons.
 
@@ -86,7 +86,7 @@ I don't question that GPL is a good license for operating systems, especially si
 In a [forum post](https://bitcointalk.org/index.php?topic=64.msg21766#msg21766) on November 13, 2010, Satoshi suggests that work on Bitcoin graphics would be easier if everyone would just put their work into the public domain.
 
 
-## Source #8: Re: More BitCoin questions
+## Source #9: Re: More BitCoin questions
 
 In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/10/#selection-27.423-2.8) reply to Mike Hearn on January 07, 2011, Satoshi asks Mike about the licensing on his work on a client-only implentation of Bitcoin.
 
@@ -100,7 +100,7 @@ Mike replies that he is indeed planning to open source the work and Satoshi [wri
 Perfect.  Once your code shows how to simplify it down, other authors can follow your lead.  
 ```
 
-## Source #9: Re: Open sourced my Java SPV impl
+## Source #10: Re: Open sourced my Java SPV impl
 
 In an [email](https://wakgill.github.io/bitcoin-archive/docs/emails/mike-hearn/13/#selection-27.691-27.835) reply to Mike Hearn on March 09, 2011, Satoshi writes that it is "great" that Mike was able to open source his Java SPV implementation. 
 
