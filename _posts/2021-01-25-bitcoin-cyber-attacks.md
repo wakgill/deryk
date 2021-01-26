@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Alleged Cyber Attacks Against Scaling Bitcoin
+title: Cyber Attacks Against Scaling Bitcoin
 permalink: bitcoin-cyber-attacks
 ---
 
-# Alleged Cyber Attacks Against Scaling Bitcoin
+# Cyber Attacks Against Scaling Bitcoin
 
-The somewhat idyllic early years of Bitcoin, during which time nearly everyone agreed on the proper way to scale the Bitcoin protocol in the long term, came to an end around 2013 or 2014 depending on whom you ask. What began as debates in online forums amongst people with seemingly shared goals who just disagreed about how to achieve them quickly escalated in 2015 to information and often criminal cyber warfare from the faction of Bitcoin that did not want Bitcoin to scale by increasing the blocksize. Believing any attempt to raise the blocksize of Bitcoin to be an [attack](https://archive.is/CmzpR) on Bitcoin itself, they became [unscrupulous](https://blog.plan99.net/the-philosophical-origins-of-bitcoins-civil-war-400468335377) and relentless in their "defense." Arguably, they won. 
+The somewhat idyllic early years of Bitcoin, during which time nearly everyone agreed on the proper way to scale the Bitcoin protocol in the long term, came to an end around 2013 or 2014 depending on whom you ask. What began as debates in online forums amongst people with seemingly shared goals who just disagreed about how to achieve them quickly escalated in 2015 to information and often criminal cyber warfare from the faction of Bitcoin that did not want Bitcoin to scale by increasing the blocksize. 
 
 Between 2015 and 2018 there were over 30 alleged cyber attacks on companies and node implementations who supported the big-block roadmap, with many more reports that have been lost to link-rot and perhaps many more that went unreported. The number "30" may sound small, but remember that each attack affected thousands of people. The attacks included things like denial-of-service attacks which took down internet providers hosting Bitcoin XT nodes and mass email spam that left companies struggling to deliver emails to customers, and they had a chilling effect on the willingness of people with substantial skin in the game to put themselves out there in support of raising the blocksize, no matter their personal beliefs. Despite four attempts to raise the blocksize on the BTC chain, the big-blockers ultimately had to give up and create their own fork, losing nearly a decade of hard work, millions of dollars in infastructure, and the network effect and branding that the BTC chain enjoys.
 
