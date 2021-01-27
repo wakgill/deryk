@@ -55,6 +55,9 @@ And so, I documented it, starting with all the known alleged cyber attacks that 
 
 You can [support](/deryk/support) the ongoing collection of information in Bitcoin. contribute to this page by sending me an [email](/deryk/contact) with the data, date, and link you would like to include, or your own personal story with as much evidence as possible. I'm happy to list your name in the credits for the entry.
 
+<script src="https://unpkg.com/@paybutton/paybutton@^1.0/dist/paybutton.js"></script>
+<div class="paybutton" to="qpz6g6f9xqx8ja7s2hn623lprpqmd4arncwz7ftfg0"></div>
+
 ## Citation
 
 In academic work, please cite this resource as <code> Makgill, Deryk, “Known Cyber Attacks Against Scaling Bitcoin.” https://makgill.github.io/deryk/bitcoin/data/cyber-attacks. Retrieved [access date].</code>
