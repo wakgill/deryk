@@ -9,8 +9,7 @@ permalink: satoshi-ip
 TL;DR the claim that Satoshi Nakamoto supported intellectual property in Bitcoin is unsubstantiated by the public evidence
 available to us from Satoshi Nakamoto's writings and is several times actually contradicted. While this does not prove that Satoshi did not plan from the start of his work developing Bitcoin to enforce intellectual property claims in the future, we should treat claims like that with skeptiscm and demand primary source proof.
 
-<script src="https://unpkg.com/@paybutton/paybutton@^1.0/dist/paybutton.js"></script>
-<div class="paybutton" to="qpz6g6f9xqx8ja7s2hn623lprpqmd4arncwz7ftfg0"></div>
+
 
 ## Source #1: MIT License 
 
