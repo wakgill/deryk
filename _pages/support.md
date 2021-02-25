@@ -17,8 +17,13 @@ BSV: $makgill or makgill@moneybutton.com.
 Monero: 47rxw7z8nXGgd87g6fyuykLDpLnnWVbSWQ7Lea1nMipfNBGQDhsdaZNDWRvw2QsnFYUHxptCWv6j26rBh12cou8t7sN6bbH
 
 <!-- This line should go where you want to put your button -->
-<div class="money-button" data-amount="0.1" data-currency="USD"></div>
-
+<div class="money-button"
+  data-to="3944"
+  data-amount=".25"
+  data-currency="USD"
+  data-label="Pay Us"  data-client-identifier="14969e170259eee95f547443f9561f1a"data-button-id="1614286315897"
+  data-button-data="{}"
+  data-type="tip"
+></div>
 <!-- This line can go anywhere -->
-
-<a href="https://www.moneybutton.com/moneybutton.js">https://www.moneybutton.com/moneybutton.js</a>
+<script src="https://www.moneybutton.com/moneybutton.js"></script>
