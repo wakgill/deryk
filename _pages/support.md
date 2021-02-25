@@ -15,3 +15,10 @@ BTC: 17MEahERxZH6pwWy4z7wWBZvH4rRnv3F7i
 BSV: $makgill or makgill@moneybutton.com.
 
 Monero: 47rxw7z8nXGgd87g6fyuykLDpLnnWVbSWQ7Lea1nMipfNBGQDhsdaZNDWRvw2QsnFYUHxptCWv6j26rBh12cou8t7sN6bbH
+
+<!-- This line should go where you want to put your button -->
+<div class="money-button" data-amount="0.1" data-currency="USD"></div>
+
+<!-- This line can go anywhere -->
+
+<a href="https://www.moneybutton.com/moneybutton.js">https://www.moneybutton.com/moneybutton.js</a>
